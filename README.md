@@ -1,2 +1,2 @@
 # runningseries
-Runnin Series
+Running Series
