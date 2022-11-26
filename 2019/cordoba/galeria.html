@@ -11,7 +11,7 @@
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link type="text/css" rel="stylesheet" href="../../materialize1/css/materialize.min.css"  media="screen,projection"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<link href="../../css/custom.css" rel="stylesheet">
+<link href="../../css/runningseries/custom.css" rel="stylesheet">
 
        <title>Galería de Fotos</title>
       <meta name="viewport" content=" user-scalable=yes" />
@@ -19,28 +19,57 @@
 
 	<!-- BODY -->
 	  <body>
-  <nav class="white">
-  	<div class="fixed-action-btn floatButtonTop">
-  		<a class="btn-floating btn-large white sidenav-trigger show"  href="#" data-target="mobile-menu" >
-    	<i class="large material-icons primaryColorImportant">menu</i>
-  		</a>
-  	</div>
-  </nav>
-  <ul class="sidenav" id="mobile-menu">
-	   <li  ><a href="/" class="white primaryColor"><img class="left-align" src="/images/info_icon.png" width="24" height="24"> Inicio</a></li>
-	   <li  ><a href="/inscripciones" class="white primaryColor"><img class="left-align" src="/images/edit_icon.png" width="24" height="24"> Inscripciones</a></li>
-	   <li  ><a href="/blog" class="white primaryColor"><img class="left-align" src="/images/suscripcion_icon.png" width="24" height="24"> Noticias</a></li>
-  	   <li class="active" ><a href="/galeria" class="primaryColor-bg white-text"><img class="left-align" src="/images/camera_icon.png" width="24" height="24"> Galería</a></li>
-  	   <li  ><a href="/resultados?carrera=encinarejo&year=2019" class="white primaryColor"><img class="left-align" src="/images/resultados_icon.png" width="24" height="24"> Resultados ENCINAREJO</a></li>
-  	   <li  ><a href="/resultados?carrera=belmezpenarroya&year=2019" class="white primaryColor"><img class="left-align" src="/images/resultados_icon.png" width="24" height="24"> Resultados BELMEZ-PEÑARROYA</a></li>
-  	   <li  ><a href="/resultados?carrera=airarunningseries&year=2019" class="white primaryColor"><img class="left-align" src="/images/resultados_icon.png" width="24" height="24"> Resultados CIRCUITO</a></li>
-  </ul>
-  </nav>
-  </nav>
+      <nav class="primaryColor-bg">
+        <div class="fixed-action-btn floatButtonTop">
+          <a class="btn-floating btn-large white sidenav-trigger show secondaryColor-bg" href="#" data-target="mobile-menu">
+            <i class="large material-icons">menu</i>
+          </a>
+        </div>
+      </nav>
+      <ul class="sidenav primaryColor-bg" id="mobile-menu">
+        <li class="active">
+          <a href="/runningseries" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Inicio </a>
+        </li>
+        <li class="active">
+          <a href="#que-es" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Qué es SPGroup Running Series </a>
+        </li>
+        <li class="active">
+          <a href="#aje2022" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Córdoba AJE 2022 </a>
+        </li>
+        <li class="active">
+          <a href="#encinarejo2022" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Encinarejo 2022 </a>
+        </li>
+        <li class="active">
+          <a href="#penarroya2022" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Peñarroya-Bélmez 2022 </a>
+        </li>
+        <li class="active">
+          <a href="#aje2019" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Córdoba AJE 2019 </a>
+        </li>
+        <li class="active">
+          <a href="#encinarejo2019" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Encinarejo 2019 </a>
+        </li>
+        <li class="active">
+          <a href="#penarroya2019" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Peñarroya-Bélmez 2019 </a>
+        </li>
+        <li class="active">
+          <a href="#sponsors" class="primaryColor-bg white-text">
+            <img class="left-align" src="../../images/info_icon.png" width="24" height="24"> Nuestros Sponsors </a>
+        </li>
+      </ul>
+      </nav>
+      </nav>
   </header>
   <main>
         <!-- Section LOGO -->
-      <div class="section white">
+      <div class="section primaryColor-bg">
           <div class="row container">
             <div class="col s12 m10 offset-m1">
               <div class="col s12 m12">
@@ -97,7 +126,7 @@
                             <div class="col l4 s12" style="overflow: hidden;">
                               <h5>Redes sociales</h5>
                               <a href="https://www.facebook.com/SPGroupRunningSeries" target="_blank">
-                                <img src="./images/facebook_icon.png" alt="social facebook" style="width:64px">
+                                <img src="../../images/facebook_icon.png" alt="social facebook" style="width:64px">
                               </a>
                               <br>
                             </div>
@@ -133,7 +162,7 @@
   </script>
  		<script>
 			function getPhotos(carreraRequested, yearRequested, timeRequested, dorsalRequested){
-				$.post('https://airarunningseries.herokuapp.com/getPhotos', { carrera : carreraRequested, year: yearRequested, time : timeRequested, dorsal : dorsalRequested}, function(data, status, xhr){ 
+				$.post('https://tusresulta2.herokuapp.com/getPhotos', { carrera : carreraRequested, year: yearRequested, time : timeRequested, dorsal : dorsalRequested}, function(data, status, xhr){ 
 					var dataArray = data;
 					var counter = 0;
 					$('.gal').remove();
@@ -169,7 +198,7 @@
 			}
 			
 			function getPhotosAll(carreraRequested, yearRequested, carreraName){
-				$.post('https://airarunningseries.herokuapp.com/getPhotosAll', { carrera : carreraRequested, year: yearRequested}, function(data, status, xhr){ 
+				$.post('https://tusresulta2.herokuapp.com/getPhotosAll', { carrera : carreraRequested, year: yearRequested}, function(data, status, xhr){ 
 					var dataArray = data;
 					var counter = 0;
 					$('.gal').remove();
@@ -201,7 +230,7 @@
 			
 			
 			function getVideos(carreraRequested, yearRequested, timeRequested){
-				$.post('https://airarunningseries.herokuapp.com/getVideos', { carrera : carreraRequested, year: yearRequested, time : timeRequested}, function(data, status, xhr){ 
+				$.post('https://tusresulta2.herokuapp.com/getVideos', { carrera : carreraRequested, year: yearRequested, time : timeRequested}, function(data, status, xhr){ 
 					var dataArray = data;
 					var counter = 0;
 					$('.gal').remove();
