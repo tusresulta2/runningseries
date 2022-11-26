@@ -133,7 +133,7 @@
   </script>
  		<script>
 			function getPhotos(carreraRequested, yearRequested, timeRequested, dorsalRequested){
-				$.post('http://airarunningseries.herokuapp.com//getPhotos', { carrera : carreraRequested, year: yearRequested, time : timeRequested, dorsal : dorsalRequested}, function(data, status, xhr){ 
+				$.post('https://airarunningseries.herokuapp.com/getPhotos', { carrera : carreraRequested, year: yearRequested, time : timeRequested, dorsal : dorsalRequested}, function(data, status, xhr){ 
 					var dataArray = data;
 					var counter = 0;
 					$('.gal').remove();
@@ -169,7 +169,7 @@
 			}
 			
 			function getPhotosAll(carreraRequested, yearRequested, carreraName){
-				$.post('http://airarunningseries.herokuapp.com/getPhotosAll', { carrera : carreraRequested, year: yearRequested}, function(data, status, xhr){ 
+				$.post('https://airarunningseries.herokuapp.com/getPhotosAll', { carrera : carreraRequested, year: yearRequested}, function(data, status, xhr){ 
 					var dataArray = data;
 					var counter = 0;
 					$('.gal').remove();
@@ -201,7 +201,7 @@
 			
 			
 			function getVideos(carreraRequested, yearRequested, timeRequested){
-				$.post('http://airarunningseries.herokuapp.com/getVideos', { carrera : carreraRequested, year: yearRequested, time : timeRequested}, function(data, status, xhr){ 
+				$.post('https://airarunningseries.herokuapp.com/getVideos', { carrera : carreraRequested, year: yearRequested, time : timeRequested}, function(data, status, xhr){ 
 					var dataArray = data;
 					var counter = 0;
 					$('.gal').remove();
