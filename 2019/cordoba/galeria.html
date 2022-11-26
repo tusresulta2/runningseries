@@ -1,0 +1,245 @@
+<html>
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143536371-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-143536371-1');
+</script>
+<!--Import Google Icon Font-->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="../../materialize1/css/materialize.min.css"  media="screen,projection"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link href="../../css/custom.css" rel="stylesheet">
+
+       <title>Galería de Fotos</title>
+      <meta name="viewport" content=" user-scalable=yes" />
+	<head>
+
+	<!-- BODY -->
+	  <body>
+  <nav class="white">
+  	<div class="fixed-action-btn floatButtonTop">
+  		<a class="btn-floating btn-large white sidenav-trigger show"  href="#" data-target="mobile-menu" >
+    	<i class="large material-icons primaryColorImportant">menu</i>
+  		</a>
+  	</div>
+  </nav>
+  <ul class="sidenav" id="mobile-menu">
+	   <li  ><a href="/" class="white primaryColor"><img class="left-align" src="/images/info_icon.png" width="24" height="24"> Inicio</a></li>
+	   <li  ><a href="/inscripciones" class="white primaryColor"><img class="left-align" src="/images/edit_icon.png" width="24" height="24"> Inscripciones</a></li>
+	   <li  ><a href="/blog" class="white primaryColor"><img class="left-align" src="/images/suscripcion_icon.png" width="24" height="24"> Noticias</a></li>
+  	   <li class="active" ><a href="/galeria" class="primaryColor-bg white-text"><img class="left-align" src="/images/camera_icon.png" width="24" height="24"> Galería</a></li>
+  	   <li  ><a href="/resultados?carrera=encinarejo&year=2019" class="white primaryColor"><img class="left-align" src="/images/resultados_icon.png" width="24" height="24"> Resultados ENCINAREJO</a></li>
+  	   <li  ><a href="/resultados?carrera=belmezpenarroya&year=2019" class="white primaryColor"><img class="left-align" src="/images/resultados_icon.png" width="24" height="24"> Resultados BELMEZ-PEÑARROYA</a></li>
+  	   <li  ><a href="/resultados?carrera=airarunningseries&year=2019" class="white primaryColor"><img class="left-align" src="/images/resultados_icon.png" width="24" height="24"> Resultados CIRCUITO</a></li>
+  </ul>
+  </nav>
+  </nav>
+  </header>
+  <main>
+        <!-- Section LOGO -->
+      <div class="section white">
+          <div class="row container">
+            <div class="col s12 m10 offset-m1">
+              <div class="col s12 m12">
+                <div class="row">
+                  <div class="col s8 m8 l8">
+                    <a href="/runningseries">
+                      <img src="../../images/runningseries_logo.png" style="width:100%">
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+         <!-- END Section LOGO -->
+
+  <!-- Section GALERIA -->
+	<div class="section secondaryColor-bg">
+		<div class="row container">
+	      	<div class="col s12 m12 l12">
+				<h1 class="primaryFont primaryColor">GALERÍA DE FOTOS</h1>
+<div id="modalPhotoSlider" class="">
+    <div class="">
+      <h4 id="photoCounter" class="white-text secondaryFont">Galería de fotos</h4>
+      <div class="row">
+      	<div class="col s12 m12">
+			<ul class="collapsible" id="photoSliderInner">
+			</ul>
+    	</div>
+      </div>
+    </div>
+</div>
+			</div>
+		</div>
+	</div>
+                  <footer class="page-footer docs-footer primaryColor-bg">
+                    <div class="container">
+                      <div class="row" style="margin-bottom: 0;">
+                        <div class="col s12 m10 offset-m1">
+                          <div class="row">
+                            <div class="col l4 s12">
+                              <h5>Circuito</h5>
+                              <ul>
+                                <li>
+                                  <a class="secondaryFont secondaryColor" href="#">Encinarejo</a>
+                                </li>
+                                <li>
+                                  <a class="secondaryFont secondaryColor" href="#">Bélmez-Peñarroya</a>
+                                </li>
+                                <li>
+                                  <a class="secondaryFont secondaryColor" href="#">Córdoba</a>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col l4 s12" style="overflow: hidden;">
+                              <h5>Redes sociales</h5>
+                              <a href="https://www.facebook.com/SPGroupRunningSeries" target="_blank">
+                                <img src="./images/facebook_icon.png" alt="social facebook" style="width:64px">
+                              </a>
+                              <br>
+                            </div>
+                            <div class="col m12 l12 s12"> © <noscript>2019</noscript>
+                              <script type="text/javascript">
+                                document.write(new Date().getFullYear());
+                              </script> Running Series, Todos los derechos reservados. Desarrollado por <a class="secondaryColor" href="http://www.tusresulta2.com" target="_blank">TusResulta2.com</a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </footer>
+                    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+                    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+<script>
+	$(document).ready(function(){
+    	$('.collapsible').collapsible();
+    	$('.sidenav').sidenav();
+    	$('.carousel').carousel();
+    	$('.modal').modal();
+    	$('select').formSelect();
+    	$('.fixed-action-btn').floatingActionButton();
+    	$('.carousel.carousel-slider').carousel({
+			    fullWidth: true,
+			    indicators: true
+		});
+
+  	});
+  	function toastDismiss(){
+ 				M.Toast.dismissAll();
+	        }
+  </script>
+ 		<script>
+			function getPhotos(carreraRequested, yearRequested, timeRequested, dorsalRequested){
+				$.post('http://airarunningseries.herokuapp.com//getPhotos', { carrera : carreraRequested, year: yearRequested, time : timeRequested, dorsal : dorsalRequested}, function(data, status, xhr){ 
+					var dataArray = data;
+					var counter = 0;
+					$('.gal').remove();
+					
+					var galeryCount = 0;
+					dataArray.forEach(function(i){
+						galeryCount++;
+						
+						if(i.galeryName.includes('+atletismo')){
+							$('#imagesPhotoSlider').prepend("<li class='active'><div class='collapsible-header gal'><i class='material-icons secondaryColorTR2-text'>arrow_drop_down_circle</i>Haz click para ver: " + i.galeryName + "<a><img src='/images/masatletismo_logo.jpg' width='150px'></a></div><div class='collapsible-body gal'  style='display: block;' id='gallery" + galeryCount + "'>");
+						}else{
+							$('#imagesPhotoSlider').prepend("<li class='active'><div class='collapsible-header gal'><i class='material-icons secondaryColorTR2-text'>arrow_drop_down_circle</i>Haz click para ver: " + i.galeryName + "</div><div class='collapsible-body gal' style='display: block;' id='gallery" + galeryCount + "'>");
+						}
+
+						i.photos.forEach(function(j){
+							counter++;
+							$('#gallery' + galeryCount).append("<a target='_blank' class='gal' href='" + j + "'><img class='imageFull' src='" + j + "' ></a>");
+						});
+						
+						if(i.galeryName.includes('+atletismo')){
+							$('#gallery' + galeryCount).append("<div class='row gal'><br><div class='collection'><img src='/images/masatletismo_logo.jpg' width='150px'><a target='_blank' href='" + i.galeryUrl +"' class='collection-item secondaryColorTR2'><span class='badge'><img src='/images/camera_icon.png' class='circle valign-centre centre' width='32px'></span>Haz click para ver todo " + i.galeryName + "</a></div>");
+						}else{
+							$('#gallery' + galeryCount).append("<div class='row gal'><br><div class='collection'><a target='_blank' href='" + i.galeryUrl +"' class='collection-item secondaryColorTR2'><span class='badge'><img src='/images/camera_icon.png' class='circle valign-centre centre' width='32px'></span>Haz click para ver todo " + i.galeryName + "</a></div>");
+						}
+						$('#imagesPhotoSlider').prepend("</div></li class='active'>");
+						
+					});
+					
+					$('#photoCounter').text("Hemos encontrado (" + counter + ") posibles fotos en (" + galeryCount + ") galerías");
+					$('#modalPhotoSlider').modal('open');
+
+				});
+			}
+			
+			function getPhotosAll(carreraRequested, yearRequested, carreraName){
+				$.post('http://airarunningseries.herokuapp.com/getPhotosAll', { carrera : carreraRequested, year: yearRequested}, function(data, status, xhr){ 
+					var dataArray = data;
+					var counter = 0;
+					$('.gal').remove();
+					
+					var galeryCount = 0;
+					dataArray.forEach(function(i){
+						galeryCount++;
+						
+						if(i.galeryName.includes('+atletismo')){
+							$('#photoSliderInner').prepend("<li class='active'><div class='collapsible-header gal'><i class='material-icons secondaryColorTR2-text'>arrow_drop_down_circle</i>Haz click para ver: " + i.galeryName + "<a><img src='/images/masatletismo_logo.jpg' width='150px'></a></div><div class='collapsible-body' id='gallery" + galeryCount + "'>");
+						}else{
+							$('#photoSliderInner').prepend("<li class='active'><div class='collapsible-header gal'><i class='material-icons secondaryColorTR2-text'>arrow_drop_down_circle</i>Haz click para ver: " + i.galeryName + "</div><div class='collapsible-body gal' style='display: block;' id='gallery" + galeryCount + "'>");
+						}
+
+						i.photos.forEach(function(j){
+							counter++;
+							$('#gallery' + galeryCount).append("<a target='_blank' class='gal' href='" + j + "'><img class='imageFull' src='" + j + "' ></a>");
+						});
+
+						$('#photoSliderInner').prepend("</div></li class='active'>");
+						
+					});
+					
+					$('#photoCounter').text("Galería " + carreraName + " con (" + counter + ") fotos");
+
+				});
+			}
+			
+			
+			
+			function getVideos(carreraRequested, yearRequested, timeRequested){
+				$.post('http://airarunningseries.herokuapp.com/getVideos', { carrera : carreraRequested, year: yearRequested, time : timeRequested}, function(data, status, xhr){ 
+					var dataArray = data;
+					var counter = 0;
+					$('.gal').remove();
+					
+					var galeryCount = 0;
+					dataArray.forEach(function(i){
+						galeryCount++;
+						
+						if(i.galeryName.includes('+atletismo')){
+							$('#imagesPhotoSlider').prepend("<li class='active'><div class='collapsible-header gal'><i class='material-icons secondaryColorTR2-text'>arrow_drop_down_circle</i>Haz click para ver: " + i.galeryName + "<a><img src='/images/masatletismo_logo.jpg' width='150px'></a></div><div class='collapsible-body gal'  style='display: table-cell;' id='gallery" + galeryCount + "'>");
+						}else{
+							$('#imagesPhotoSlider').prepend("<li class='active'><div class='collapsible-header gal'><i class='material-icons secondaryColorTR2-text'>arrow_drop_down_circle</i>Haz click para ver: " + i.galeryName + "</div><div class='collapsible-body gal' style='display: table-cell;' id='gallery" + galeryCount + "'>");
+						}
+
+						i.photos.forEach(function(j){
+							counter++;
+							$('#gallery' + galeryCount).append("<iframe width='100%' height='100%' src='" + j + "' frameborder='0' allow='accelerometer; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>");
+						});
+						
+						if(i.galeryName.includes('+atletismo')){
+							$('#gallery' + galeryCount).append("<div class='row gal'><br><div class='collection'><img src='/images/masatletismo_logo.jpg' width='150px'><a target='_blank' href='" + i.galeryUrl +"' class='collection-item secondaryColorTR2'><span class='badge'><img src='/images/camera_icon.png' class='circle valign-centre centre' width='32px'></span>Haz click para ver todo " + i.galeryName + "</a></div>");
+						}else{
+							$('#gallery' + galeryCount).append("<div class='row gal'><br><div class='collection'><a target='_blank' href='" + i.galeryUrl +"' class='collection-item secondaryColorTR2'><span class='badge'><img src='/images/video_icon.png' class='circle valign-centre centre' width='32px'></span>Haz click para ver completo " + i.galeryName + "</a></div>");
+						}
+						$('#imagesPhotoSlider').prepend("</div></li class='active'>");
+						
+					});
+					
+					$('#photoCounter').text("Hemos encontrado (" + counter + ") posibles videos en (" + galeryCount + ") galerías");
+					$('#modalPhotoSlider').modal('open');
+
+				});
+			}
+		</script>
+		<script>
+				getPhotosAll("cordoba","2019","Aira Running Series AJE CÓRDOBA 2019")
+		</script>
+	</body>
+	
+	
+</html>  
