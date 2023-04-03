@@ -63,6 +63,18 @@
 	background-color: #675C53 !important;
 }
 
+.mozarabe-yellow-bg{
+	background-color: #ffea00 !important;
+}
+
+.mozarabe-blue-bg{
+	background-color: #0003a1 !important;
+}
+
+.cenefa{
+	 background-image: url("../../images/cenefa.png");
+}
+
 .greyColorTR2 {
 	background-color: #424242 !important;
 	color: #fff !important;
