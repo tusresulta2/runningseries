@@ -4,10 +4,15 @@
     --secondary: #191C24;
     --light: #000000;
     --dark: #000000;
+	--aje: #c9071d;
+}
+
+.bg-red {
+	background-color: #c9071d;
 }
 
 .text-red {
-    color: red
+    color: #c9071d;
 }
 
 .back-to-top {

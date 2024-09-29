@@ -25,7 +25,7 @@
     --bs-info: #0dcaf0;
     --bs-warning: #ffc107;
     --bs-danger: #dc3545;
-    --bs-light: #ff0000;
+    --bs-light: #c9071d;
     --bs-dark: #000;
     --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -48,7 +48,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #ff0000;
+    color: #c9071d;
     background-color: #fff;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0,0,0,0)
@@ -1830,17 +1830,17 @@ progress {
 
 .table {
     --bs-table-bg: rgba(0,0,0,0);
-    --bs-table-striped-color: #ff0000;
+    --bs-table-striped-color: #c9071d;
     --bs-table-striped-bg: rgba(0,0,0,0.05);
-    --bs-table-active-color: #ff0000;
+    --bs-table-active-color: #c9071d;
     --bs-table-active-bg: rgba(0,0,0,0.1);
-    --bs-table-hover-color: #ff0000;
+    --bs-table-hover-color: #c9071d;
     --bs-table-hover-bg: rgba(0,0,0,0.075);
     width: 100%;
     margin-bottom: 1rem;
-    color: #ff0000;
+    color: #c9071d;
     vertical-align: top;
-    border-color: #ff0000
+    border-color: #c9071d
 }
 
     .table > :not(caption) > * > * {
@@ -1970,7 +1970,7 @@ progress {
 }
 
 .table-light {
-    --bs-table-bg: #ff0000;
+    --bs-table-bg: #c9071d;
     --bs-table-striped-bg: #737998;
     --bs-table-striped-color: #000;
     --bs-table-active-bg: #7b809e;
@@ -2070,10 +2070,10 @@ progress {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #ff0000;
+    color: #c9071d;
     background-color: #fff;
     background-clip: padding-box;
-    border: 1px solid #ff0000;
+    border: 1px solid #c9071d;
     appearance: none;
     border-radius: 0px;
     transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out
@@ -2094,7 +2094,7 @@ progress {
     }
 
 .form-control:focus {
-    color: #ff0000;
+    color: #c9071d;
     background-color: #fff;
     border-color: #f58b8b;
     outline: 0;
@@ -2119,7 +2119,7 @@ progress {
     padding: .375rem .75rem;
     margin: -.375rem -.75rem;
     margin-inline-end: .75rem;
-    color: #ff0000;
+    color: #c9071d;
     background-color: #e9ecef;
     pointer-events: none;
     border-color: inherit;
@@ -2144,7 +2144,7 @@ progress {
     padding: .375rem .75rem;
     margin: -.375rem -.75rem;
     margin-inline-end: .75rem;
-    color: #ff0000;
+    color: #c9071d;
     background-color: #e9ecef;
     pointer-events: none;
     border-color: inherit;
@@ -2171,7 +2171,7 @@ progress {
     padding: .375rem 0;
     margin-bottom: 0;
     line-height: 1.5;
-    color: #ff0000;
+    color: #c9071d;
     background-color: transparent;
     border: solid transparent;
     border-width: 1px 0
@@ -2259,13 +2259,13 @@ textarea.form-control-lg {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #ff0000;
+    color: #c9071d;
     background-color: #fff;
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
     background-repeat: no-repeat;
     background-position: right .75rem center;
     background-size: 16px 12px;
-    border: 1px solid #ff0000;
+    border: 1px solid #c9071d;
     border-radius: 0px;
     appearance: none
 }
@@ -2287,7 +2287,7 @@ textarea.form-control-lg {
 
     .form-select:-moz-focusring {
         color: transparent;
-        text-shadow: 0 0 0 #ff0000
+        text-shadow: 0 0 0 #c9071d
     }
 
 .form-select-sm {
@@ -2610,11 +2610,11 @@ textarea.form-control-lg {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #ff0000;
+    color: #c9071d;
     text-align: center;
     white-space: nowrap;
     background-color: #e9ecef;
-    border: 1px solid #ff0000;
+    border: 1px solid #c9071d;
     border-radius: 0px
 }
 
@@ -2824,7 +2824,7 @@ textarea.form-control-lg {
     display: inline-block;
     font-weight: 400;
     line-height: 1.5;
-    color: #ff0000;
+    color: #c9071d;
     text-align: center;
     vertical-align: middle;
     cursor: pointer;
@@ -2844,7 +2844,7 @@ textarea.form-control-lg {
 }
 
 .btn:hover {
-    color: #ff0000
+    color: #c9071d
 }
 
 .btn-check:focus + .btn, .btn:focus {
@@ -3069,8 +3069,8 @@ textarea.form-control-lg {
 
 .btn-light {
     color: #fff;
-    background-color: #ff0000;
-    border-color: #ff0000
+    background-color: #c9071d;
+    border-color: #c9071d
 }
 
     .btn-light:hover {
@@ -3098,8 +3098,8 @@ textarea.form-control-lg {
 
     .btn-light:disabled, .btn-light.disabled {
         color: #fff;
-        background-color: #ff0000;
-        border-color: #ff0000
+        background-color: #c9071d;
+        border-color: #c9071d
     }
 
 .btn-dark {
@@ -3318,14 +3318,14 @@ textarea.form-control-lg {
     }
 
 .btn-outline-light {
-    color: #ff0000;
-    border-color: #ff0000
+    color: #c9071d;
+    border-color: #c9071d
 }
 
     .btn-outline-light:hover {
         color: #fff;
-        background-color: #ff0000;
-        border-color: #ff0000
+        background-color: #c9071d;
+        border-color: #c9071d
     }
 
     .btn-check:focus + .btn-outline-light, .btn-outline-light:focus {
@@ -3334,8 +3334,8 @@ textarea.form-control-lg {
 
     .btn-check:checked + .btn-outline-light, .btn-check:active + .btn-outline-light, .btn-outline-light:active, .btn-outline-light.active, .btn-outline-light.dropdown-toggle.show {
         color: #fff;
-        background-color: #ff0000;
-        border-color: #ff0000
+        background-color: #c9071d;
+        border-color: #c9071d
     }
 
         .btn-check:checked + .btn-outline-light:focus, .btn-check:active + .btn-outline-light:focus, .btn-outline-light:active:focus, .btn-outline-light.active:focus, .btn-outline-light.dropdown-toggle.show:focus {
@@ -3343,7 +3343,7 @@ textarea.form-control-lg {
         }
 
     .btn-outline-light:disabled, .btn-outline-light.disabled {
-        color: #ff0000;
+        color: #c9071d;
         background-color: transparent
     }
 
@@ -3464,7 +3464,7 @@ textarea.form-control-lg {
     padding: .5rem 0;
     margin: 0;
     font-size: 1rem;
-    color: #ff0000;
+    color: #c9071d;
     text-align: left;
     list-style: none;
     background-color: #fff;
@@ -4513,7 +4513,7 @@ textarea.form-control-lg {
     width: 100%;
     padding: 1rem 1.25rem;
     font-size: 1rem;
-    color: #ff0000;
+    color: #c9071d;
     text-align: left;
     background-color: #000;
     border: 0;
@@ -4963,7 +4963,7 @@ textarea.form-control-lg {
     }
 
     .list-group-item-action:active {
-        color: #ff0000;
+        color: #c9071d;
         background-color: #e9ecef
     }
 
@@ -5515,7 +5515,7 @@ textarea.form-control-lg {
     align-items: center;
     justify-content: space-between;
     padding: 1rem 1rem;
-    border-bottom: 1px solid #ff0000;
+    border-bottom: 1px solid #c9071d;
     border-top-left-radius: 0;
     border-top-right-radius: 0
 }
@@ -5543,7 +5543,7 @@ textarea.form-control-lg {
     align-items: center;
     justify-content: flex-end;
     padding: .75rem;
-    border-top: 1px solid #ff0000;
+    border-top: 1px solid #c9071d;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 0
 }
@@ -5994,7 +5994,7 @@ textarea.form-control-lg {
 
 .popover-body {
     padding: 1rem 1rem;
-    color: #ff0000
+    color: #c9071d
 }
 
 .carousel {
@@ -6384,7 +6384,7 @@ textarea.form-control-lg {
     }
 
 .link-light {
-    color: #ff0000
+    color: #c9071d
 }
 
     .link-light:hover, .link-light:focus {
@@ -6713,7 +6713,7 @@ textarea.form-control-lg {
 }
 
 .border {
-    border: 1px solid #ff0000 !important
+    border: 1px solid #c9071d !important
 }
 
 .border-0 {
@@ -6721,7 +6721,7 @@ textarea.form-control-lg {
 }
 
 .border-top {
-    border-top: 1px solid #ff0000 !important
+    border-top: 1px solid #c9071d !important
 }
 
 .border-top-0 {
@@ -6729,7 +6729,7 @@ textarea.form-control-lg {
 }
 
 .border-end {
-    border-right: 1px solid #ff0000 !important
+    border-right: 1px solid #c9071d !important
 }
 
 .border-end-0 {
@@ -6737,7 +6737,7 @@ textarea.form-control-lg {
 }
 
 .border-bottom {
-    border-bottom: 1px solid #ff0000 !important
+    border-bottom: 1px solid #c9071d !important
 }
 
 .border-bottom-0 {
@@ -6745,7 +6745,7 @@ textarea.form-control-lg {
 }
 
 .border-start {
-    border-left: 1px solid #ff0000 !important
+    border-left: 1px solid #c9071d !important
 }
 
 .border-start-0 {
@@ -6777,7 +6777,7 @@ textarea.form-control-lg {
 }
 
 .border-light {
-    border-color: #ff0000 !important
+    border-color: #c9071d !important
 }
 
 .border-dark {
@@ -7754,7 +7754,7 @@ textarea.form-control-lg {
 }
 
 .text-light {
-    color: #ff0000 !important
+    color: #c9071d !important
 }
 
 .text-dark {
@@ -7766,7 +7766,7 @@ textarea.form-control-lg {
 }
 
 .text-body {
-    color: #ff0000 !important
+    color: #c9071d !important
 }
 
 .text-muted {
@@ -7810,7 +7810,7 @@ textarea.form-control-lg {
 }
 
 .bg-light {
-    background-color: #ff0000 !important
+    background-color: #c9071d !important
 }
 
 .bg-dark {
