@@ -1,2 +1,0 @@
-# runningseries
-Running Series
