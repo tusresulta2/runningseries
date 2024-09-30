@@ -11,6 +11,11 @@
 	background-color: #c9071d;
 }
 
+.margin-inferior{
+margin-bottom: 15px !important;
+}
+
+
 .text-red {
     color: #c9071d;
 }
