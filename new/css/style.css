@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #0a6983;
+    --primary: #c9071d;
     --secondary: #191C24;
     --light: #000000;
     --dark: #000000;
@@ -18,6 +18,10 @@ margin-bottom: 15px !important;
 
 .text-red {
     color: #c9071d;
+}
+
+.text-blue {
+    color: #0a6983;
 }
 
 .back-to-top {
