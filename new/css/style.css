@@ -291,8 +291,8 @@ margin-bottom: 15px !important;
 }
 
 .testimonial-carousel .owl-dots .owl-dot.active {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
 
 .testimonial-carousel .owl-dots .owl-dot img {
