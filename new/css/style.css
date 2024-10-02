@@ -286,6 +286,7 @@ margin-bottom: 15px !important;
     height: 60px;
     margin: 0 5px;
     padding: 10px;
+    background: #fff;
     transition: .5s;
 }
 
@@ -295,7 +296,7 @@ margin-bottom: 15px !important;
 }
 
 .testimonial-carousel .owl-dots .owl-dot img {
-    opacity: .3;
+    opacity: .35;
     transition: .5s;
 }
 
