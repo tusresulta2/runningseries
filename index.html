@@ -1,612 +1,477 @@
-<html>
-  <!-- HEAD -->
-  <head>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143536371-1"></script>
-	<script>
-      window.dataLayer = window.dataLayer || [];
+<!DOCTYPE html>
+<html lang="es">
 
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag('js', new Date());
-      gtag('config', 'UA-143536371-1');
-    </script>
-	
-	
-    <link rel="shortcut icon" type="image/png" href="./images/favicon.ico">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-	
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-	<style type="text/css" data-styleid="uploadedFonts">
-      @font-face {
-        font-family: "BreuerText";
-        src: url("//db.onlinewebfonts.com/t/760fed5b135910596038a611bae7b970.eot");
-        src: url("//db.onlinewebfonts.com/t/760fed5b135910596038a611bae7b970.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/760fed5b135910596038a611bae7b970.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/760fed5b135910596038a611bae7b970.woff") format("woff"), url("//db.onlinewebfonts.com/t/760fed5b135910596038a611bae7b970.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/760fed5b135910596038a611bae7b970.svg#BreuerText") format("svg");
-      }
-    </style>
-    
-	<link href="./css/runningseries/dashboard.css" rel="stylesheet">
-    <link href="./css/runningseries/custom.css" rel="stylesheet">
-	
-    <title>SPGroup Running Series 2023 AJE Córdoba </title>
-    <meta name="viewport" content=" user-scalable=yes" />
-    <head>
+<head>
+    <meta charset="utf-8">
+    <title>SPG RunningSeries AJE Córdoba</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
 
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
 
-    <body>
-      <nav class="mozarabe-blue-bg">
-        <div class="fixed-action-btn floatButtonTop">
-          <a class="btn-floating btn-large white sidenav-trigger show secondaryColor-bg" href="#" data-target="mobile-menu">
-            <i class="large material-icons">menu</i>
-          </a>
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&family=Oswald:wght@600&display=swap" rel="stylesheet">
+
+    <!-- Icon Font Stylesheet -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Spinner Start -->
+    <div id="spinner" class="show bg-dark position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Corriendo...</span>
         </div>
-      </nav>
-      <ul class="sidenav primaryColor-bg" id="mobile-menu">
-        <li class="active">
-          <a href="/runningseries" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Inicio </a>
-        </li>
-		<li class="active">
-          <a href="#circuito2022" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Circuito 2023 </a>
-        </li>
-		<li class="active">
-          <a href="#que-es" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Qué es SPGroup Running Series </a>
-        </li>
-		<li class="active">
-          <a href="/maratonsubbeticomozarabe" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Maratón Subbético Mozárabe 2023 </a>
-        </li>
-        <li class="active">
-          <a href="#circuito2022" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Circuito 2022 </a>
-        </li>
-        <li class="active">
-          <a href="#encinarejo2022" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Encinarejo 2022 </a>
-        </li>
-        <li class="active">
-          <a href="#penarroya2022" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Peñarroya-Bélmez 2022 </a>
-        </li>
-        <li class="active">
-          <a href="#aje2019" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Córdoba AJE 2019 </a>
-        </li>
-		<li class="active">
-          <a href="#circuito2019" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Circuito 2019 </a>
-        </li>
-        <li class="active">
-          <a href="#encinarejo2019" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Encinarejo 2019 </a>
-        </li>
-        <li class="active">
-          <a href="#penarroya2019" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Peñarroya-Bélmez 2019 </a>
-        </li>
-        <li class="active">
-          <a href="#sponsors" class="primaryColor-bg white-text">
-            <img class="left-align" src="./images/info_icon.png" width="24" height="24"> Nuestros Sponsors </a>
-        </li>
-      </ul>
-      </nav>
-      </nav>
-      </header>
-      <main>
-	  
-	  <div class="section primaryColor-bg">
-	  
-	            <div class="row container">
-            <div class="col s12 m10 offset-m1">
-              <div class="col s12 m12">
-                <div class="row">
-                  <div class="col s8 m8 l8">
-                    <a href="/">
-                      <img src="./images/SPGRS23_LOGO_MEDALLA.png" style="width:100%">
-                    </a>
-                  </div>
+    </div>
+    <!-- Spinner End -->
+    <!-- Navbar Start -->
+    <nav class="navbar navbar-expand-lg bg-secondary navbar-dark sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
+        <a href="#" class="navbar-brand ms-4 ms-lg-0">
+            <h1 class="mb-0 text-primary text-uppercase"><img src="img/logo.png"></h1>
+        </a>
+        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ms-auto p-4 p-lg-0">
+                <a href="#" class="nav-item nav-link active">2024</a>
+                <a href="#carrera" class="nav-item nav-link">LA CARRERA</a>
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">OTRAS EDICIONES</a>
+                    <div class="dropdown-menu m-0">
+                        <a href="2023" class="dropdown-item">2023</a>
+                        <a href="2022" class="dropdown-item">2022</a>
+                        <a class="dropdown-item">2021 COVID</a>
+                        <a class="dropdown-item">2020 COVID</a>
+                        <a href="2018" class="dropdown-item">2018</a>
+                        <a href="2017" class="dropdown-item">2017</a>
+                        <a href="2016" class="dropdown-item">2016</a>
+                        <a href="2015" class="dropdown-item">2015</a>
+                    </div>
                 </div>
-              </div>
+                <a href="#contacto" class="nav-item nav-link">CONTACTO</a>
             </div>
-          </div>
-	  
-            <! -- INIT 2023 -->
+            <a href="#" class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block">INSCRÍBETE PRÓXIMAMENTE<i class="fa fa-arrow-right ms-3"></i></a>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 mb-5 wow fadeIn" data-wow-delay="0.1s">
+        <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
 
-              <div class="row container">
-			  <h2 class="black-text primaryFont" style="font-size:50px">Circuito 2023 </h2>
+                <div class="carousel-item active">
+                    <img class="w-100" src="img/carousel-1.jpg" alt="Image">
+                    <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
+                        <div class="mx-sm-5 px-5" style="max-width: 900px;">
+                            <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">10K | 5K </h1>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-running me-3"></i>INDIVIDUAL</h4>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt me-3"></i>Parque Miraflores, Córdoba</h4>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-clock me-3"></i>30 Nov. 10:00</h4>
 
-               <! -- INIT CIRCUITO 2023 -->
-				  <div id="circuito2023" class="row container">
-
-				  <div class="col l12 s12 m12">
-
-					<h2 class="white-text primaryFont" style="font-size:50px">SPGROUP RUNNINGSERIES AJE CÓRDOBA 3/12/2023</h2>
-					</div>
-					  <div class="col l12 s12 m12">
-							<a class="waves-effect waves-light btn btn-large btnInscripciones red white-text" href="/pdf/SPG_RUNNINGSERIES_AJE_CORDOBA_23_RESULTADOS.pdf" target="_blank">
-								<i class="material-icons">file_download</i>RESULTADOS </a>
-					</div>
-					   <div class="col l12 s12 m12">
-							<a class="waves-effect waves-light btn btn-large btnInscripciones red white-text" href="https://photos.app.goo.gl/1vpPQhbpuBMWp4Gn7" target="_blank">
-								<i class="material-icons">camera_alt</i>FOTOS OFICIALES </a>
-					</div>
-					<div class="col l12 s12 m12">
-							<a class="waves-effect waves-light btn btn-large btnInscripciones red white-text" href="/pdf/ReglamentoSPGroupRunningSeries2023.pdf" target="_blank">
-								<i class="material-icons">file_download</i>Reglamento </a>
-							  <a class="waves-effect waves-light btn btn-large btnInscripciones red white-text" href="/pdf/DORSALES-5K10K-SPGRSAJE23-MODALIDAD.pdf" target="_blank">
-								<i class="material-icons">create</i>LISTADO INSCRITOS ORDENADO MODALIDAD </a>
-						<a class="waves-effect waves-light btn btn-large btnInscripciones red white-text" href="/pdf/DORSALES-5K10K-SPGRSAJE23-alfabetico.pdf" target="_blank">
-								<i class="material-icons">create</i>LISTADO INSCRITOS ORDENADO ALFABETICO </a>
-						<a class="waves-effect waves-light btn btn-large btnInscripciones red white-text" href="./pdf/PROGRAMACION_RUNNINGSERIESAJE_23.pdf" target="_blank">
-								<i class="material-icons">create</i>PROGRAMACIÓN|GUIA </a>
-					</div>
-						<a href="./pdf/PROGRAMACION_RUNNINGSERIESAJE_23.pdf" target="_blank"><img src="./images/spgrsaje23-PROGRAMACION_PAGINAORATRIO.jpg" style="width:100%"></a>
-					  <a href="https://www.deporticket.com/web-evento/9156-spgroup-running-series-aje-cordoba" target="_blank"><img src="./images/SPGRSAJE23-CARTEL.jpg" style="width:100%"></a>
-					  <a href="https://www.deporticket.com/web-evento/9156-spgroup-running-series-aje-cordoba" target="_blank"><img src="./images/SPGRSAJE23-CARTEL-infantil.jpg" style="width:100%"></a>
-				</div>
-				<div class="row container">
-					<div class="col l12 s12 m12">
-						  <h2 class="white-text primaryFont" style="font-size:50px">SPGROUP RUNNINGSERIES ENCINAREJO 8/10/2023</h2>
-					</div>
-					  <a><img src="./images/runningseriescircuito_2023.jpg" style="width:50%"></a>
-					<div class="col l12 s12 m12">
-						<a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/RS23EncinarejoResultados.pdf" target="_blank">
-						  <i class="material-icons">file_download</i>Resultados </a>
-						<a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://photos.app.goo.gl/3sVKQcScfJbdovRU6" target="_blank">
-						  <i class="material-icons">camera_alt</i>Fotos </a>
-					</div>
-				</div>
-			</div>
-	  
-	  <div class="section mozarabe-blue-bg">
-			<div class="row containter">
-	                 <! -- INIT MSM 2023 -->
-				  <div id="circuito2023" class="row container">
-					<div class="col l12 s12 m12">
-					  <h2 class="black-text primaryFont" style="font-size:50px">Maratón Subbético Mozárabe 2023 </h1>
-					</div>
-					<div class="col l6 s12 m12">
-					  <img src="./maratonsubbeticomozarabe/cartel_maratonsubbeticomozarabe.jpg" style="width:100%">
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="black-text primaryFont" style="font-size:50px">Info, Resultados y Fotos</h2>
-					  <div class="col s12 m12 l12">
-						<a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/maratonsubbeticomozarabe" target="_blank">
-						  <i class="material-icons">file_download</i>Info, Resultados y Fotos </a>
-					  </div>
-					</div>
-				  </div>
-                <! -- END MSM 2023 -->
-	</div>
-	</div>
-	  <div>
-		<!-- Section LOGO -->
-        <div class="section primaryColor-bg">
-          <div class="row container">
-            <div class="col s12 m10 offset-m1">
-              <div class="col s12 m12">
-                <div class="row">
-                  <div class="col s8 m8 l8">
-                    <a href="/">
-                      <img src="./images/runningseries_logo.png" style="width:100%">
-                    </a>
-                  </div>
+                        </div>
+                    </div>
                 </div>
-              </div>
+
+                <div class="carousel-item">
+                    <img class="w-100" src="img/carousel-2.jpg" alt="Image">
+                    <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
+                        <div class="mx-sm-5 px-5" style="max-width: 900px;">
+                            <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">INFANTILES </h1>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-running me-3"></i>NO COMPETITIVA</h4>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt me-3"></i>Parque Miraflores, Córdoba</h4>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-clock me-3"></i>30 Nov. 11:15</h4>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <img class="w-100" src="img/carousel-3.jpg" alt="Image">
+                    <div class="carousel-caption d-flex align-items-center justify-content-center text-start">
+                        <div class="mx-sm-5 px-5" style="max-width: 900px;">
+                            <h1 class="display-2 text-white text-uppercase mb-4 animated slideInDown">FAMILIAR </h1>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-running me-3"></i>NO COMPETITIVA</h4>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-map-marker-alt me-3"></i>Parque Miraflores, Córdoba</h4>
+                            <h4 class="text-white text-uppercase mb-4 animated slideInDown"><i class="fa fa-clock me-3"></i>30 Nov. 11:45</h4>
+
+                        </div>
+                    </div>
+                </div>
+
             </div>
-          </div>
-          <!-- END Section LOGO -->
-          <!-- Section -->
-          <div class="section primaryColor-bg">
-            <! -- INIT 2022 -->
-              <div class="row container">
-               <! -- INIT CIRCUITO 2022 -->
-				  <div id="circuito2022" class="row container">
-					<div class="col l12 s12 m12">
-					  <h2 class="black-text primaryFont" style="font-size:50px">Circuito 2022 </h1>
-					</div>
-					<div class="col l6 s12 m12">
-					  <img src="./images/runningseriescircuito_2022.jpg" style="width:100%">
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="black-text primaryFont" style="font-size:50px">Resultados</h2>
-					  <div class="col s12 m12 l12">
-						<a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriescircuito_2022.pdf" target="_blank">
-						  <i class="material-icons">file_download</i>Descargar </a>
-					  </div>
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="black-text primaryFont" style="font-size:50px">Galeria Gala Premios 2022</h2>
-						<div class="col s12 m12 l12">
-						  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://photos.app.goo.gl/m882gF2hJoFnu7ut8" target="_blank">
-							<i class="material-icons">camera_alt</i>Fotos Album 1</a>
-					  </div>
-					  <div class="col s12 m12 l12"></div>
-					  <div class="col s12 m12 l12">
-						  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://photos.app.goo.gl/VAxX41DYe6NfoUbF7" target="_blank">
-							<i class="material-icons">camera_alt</i>Fotos Album 2</a>
-					  </div>
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="black-text primaryFont" style="font-size:50px">Reglamento</h2>
-					  <div class="col s12 m12 l12">
-						<a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningSeries2022-Reglamento.pdf" target="_blank">
-						  <i class="material-icons">file_download</i>Descargar </a>
-					  </div>
-					</div>
-				  </div>
-                <! -- END CIRCUITO 2022 -->
-				<! -- INIT CORDOBA 2022 -->
-                  <div id="aje2022" class="row container">
-                    <div class="col l12 s12 m12">
-                      <h2 class="white-text primaryFont" style="font-size:50px">AJE Córdoba 4 Diciembre 2022 </h1>
-                    </div>
-                    <div class="col l6 s12 m12">
-                      <img src="./images/runningseriescordoba_2022.jpg" style="width:100%">
-                    </div>
-					<div class="col l6 s12 m12">
-					  <h2 class="white-text primaryFont" style="font-size:50px">Resultados</h2>
-					  <div class="col s12 m12 l12">
-						<a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriescordoba_2022.pdf" target="_blank">
-						  <i class="material-icons">file_download</i>Descargar </a>
-					  </div>
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="white-text primaryFont" style="font-size:50px">Galeria TusResulta2</h2>
-						<div class="col s12 m12 l12">
-						  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://tusresulta2.herokuapp.com/runningseriescordoba/2022/galeria" target="_blank">
-							<i class="material-icons">camera_alt</i>Fotos </a>
-					  </div>
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="white-text primaryFont" style="font-size:50px">Galeria +Atletismo</h2>
-						<div class="col s12 m12 l12">
-						  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://photos.google.com/share/AF1QipPQAK09GLVwduiBWz1tk_6oJtEQMDCgENHvGSVyjFZlO81mQI64q4aDxCC-EKjQuw?key=QVNkbHhDRE5SeDNVTnpfa19ORHo1MXhVcF9BTklB" target="_blank">
-							<i class="material-icons">camera_alt</i>Fotos </a>
-					  </div>
-					</div>
-					<div class="col l6 s12 m12">
-					  <h2 class="white-text primaryFont" style="font-size:50px">Galeria AristaRun</h2>
-						<div class="col s12 m12 l12">
-						  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://www.facebook.com/media/set/?vanity=aristarun&set=a.669720854624945" target="_blank">
-							<i class="material-icons">camera_alt</i>Fotos </a>
-					  </div>
-					</div>
-                    <div class="row container">
-                      <div class="col s12 m12"></div>
-                    </div>
-                  </div>
-                  <! -- END CORDOBA 2022 -->
-                    <! -- INIT ENCINAREJO 2022 -->
-                      <div id="encinarejo2022" class="row container">
-                        <div class="col l12 s12 m12">
-                          <h2 class="white-text primaryFont" style="font-size:50px">Encinarejo 25 Septiembre 2022</h2>
-                        </div>
-                        <div class="col l6 s12 m12">
-                          <img src="./images/runningseriesencinarejo_2022.jpg" style="width:100%">
-                        </div>
-                        <div class="col l6 s12 m12">
-                          <h2 class="white-text primaryFont" style="font-size:50px">Resultados</h2>
-                          <div class="col s12 m12 l12">
-                            <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriesencinarejo_2022.pdf" target="_blank">
-                              <i class="material-icons">file_download</i>Descargar </a>
-                          </div>
-                        </div>
-                      </div>
-                      <! -- END ENCINAREJO 2022 -->
-                        <! -- INIT PENARROYA 2022 -->
-                          <div id="penarroya2022" class="row container">
-                            <div class="col s12 m12">
-                              <h2 class="white-text primaryFont" style="font-size:50px">Belmez-Peñarroya 22 Mayo 2022</h2>
-                            </div>
-                            <div class="col l6 s12 m12">
-                              <img src="./images/runningseriespenarroya_2022.jpg" style="width:100%">
-                            </div>
-                            <div class="col l6 s12 m12">
-                              <h2 class="white-text primaryFont" style="font-size:50px">Resultados</h2>
-                              <div class="col s12 m12 l12">
-                                <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriespenarroya_2022.pdf" target="_blank">
-                                  <i class="material-icons">file_download</i>Descargar </a>
-                              </div>
-                            </div>
-                          </div>
-                          <! -- END PENARROYA 2022 -->
-              </div>
-              <!-- END Section -->
-              <!-- Section -->
-              <div class="section secondaryColor-bg">
-                <div class="black-text"></div>
-                <div class="slider">
-                  <ul class="slides">
-                    <li>
-                      <img src="./images/individual.JPG">
-                      <div class="caption center-align">
-                        <!--   
-					  <h3>Modalidad 5K y 10K</h3><h5 class="black-text">Individual Masculino, Femenina, Empresa Masculino, Empresa Femenina</h5>
-					-->
-                      </div>
-                    </li>
-                    <li>
-                      <img src="./images/parejas.jpg">
-                      <div class="caption center-align">
-                        <!--  
-					  <h3>Modalidad parejas</h3><h5 class="black-text">Parejas Masculina, Femenina, Mixta, Empresa Masculina, Empresa Femenina, Empresa Mixta</h5>
-					-->
-                      </div>
-                    </li>
-                    <li>
-                      <img src="./images/equipo.jpg" style="transparency:50%">
-                      <div class="caption center-align">
-                        <!--  
-					  <h3>Modalidad equipo de 4</h3><h5 class="black-text">Equipos Masculino, Femenino, Mixto, Empresa Masculino, Empresa Femenino, Empresa Mixto</h5>
-					-->
-                      </div>
-                    </li>
-                    <li>
-                      <img src="./images/infantiles.jpg">
-                      <div class="caption left-align">
-                        <!--  
-					  <h3>Carreras infantiles</h3><h5 class="black-text">Las categorías tienen nombre de VALORES. Todos l@s niñ@s entran juntos de la mano en meta.</h5>
-					-->
-                      </div>
-                    </li>
-                    <li>
-                      <img src="./images/familiar.jpg">
-                      <div class="caption right-align">
-                        <!--  
-					  <h3>Carrera familiar</h3><h5 class="black-text">Distancia asequible para que cualquier persona participe, corriendo, andando...</h5>
-					-->
-                      </div>
-                    </li>
-                    <li>
-                      <img src="./images/actividades.jpg">
-                      <div class="caption right-align">
-                        <!--  
-					  <h3>Actividades y animación</h3><h5 class="black-text">Actividades durante todo el evento para que disfuten participantes y acompañantes</h5>
-					-->
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="section secondaryColor-bg"></div>
-              <!-- Section QUE ES LA RUNNING SERIES -->
-              <div id="que-es" class="section thirdColor-bg">
-                <div class="row container justify">
-                  <div class="col s12 m12 l12">
-                    <h2 class="header primaryFont white-text">¿QUÉ ES LA SPGROUP RUNNING SERIES?</h2>
-                    <h4 class="white-text">Es mucho más que un circuito de carreras populares. Nuestra apuesta desde la primera edición son los valores del deporte, el compañerismo y la familia</h4>
-                    <h4 class="white-text">Nuestras carreras son de 5K o 10K participando de forma individual</h4>
-                    <h4 class="white-text">Nuestras carreras son de 5K participando en pareja Masculina/Femenina/Mixta/Empresa</h4>
-                    <h4 class="white-text">Nuestras carreras son de 10K participando en equipos de 4 Masculino/Femenino/Mixto/Empresa</h4>
-                    <h4 class="white-text">Nuestras carreras familiar e infantil tienen a todos los participantes como ganadores, y, es que todos entran juntos de la mano por debajo del arco de meta</h4>
-                  </div>
-                </div>
-                <div id="sponsors" class="row container">
-                  <div class="col l6 s6 m6">
-                    <a href="https://www.spg-pack.com/" target="_blank">
-                      <img src="./images/spgroup_logo.png" style="width:100%">
-                    </a>
-                  </div>
-                </div>
-                <div class="row container">
-                  <div class="col l12 s12 m12">
-                    <img src="./images/sponsors.jpg" style="width:100%">
-                  </div>
-                </div>
-              </div>
-              <!-- END Section -->
-              <!-- @common.sectionCircuito/> -->
-              <!-- @common.sponsors/> -->
-              <!-- Section -->
-              <div class="section primaryColor-bg">
-                <div class="row container">
-                  <div class="col s12 m10 offset-m1">
-                    <h1 class="black-text primaryFont header" style="font-size:100px">2021</h1>
-                    <h5 class="black-text secondaryFont">Aplazada por Covid</h5>
-                  </div>
-                </div>
-                <div class="row container">
-                  <div class="col s12 m10 offset-m1">
-                    <h1 class="black-text primaryFont header" style="font-size:100px">2020</h1>
-                    <h5 class="black-text secondaryFont">Aplazada por Covid</h5>
-                  </div>
-                </div>
-                <! -- INIT 2019 -->
-                  <div class="row container">
-                    <div class="col s12 m10 offset-m1">
-                      <h1 class="black-text primaryFont header" style="font-size:100px">2019</h1>
-                    </div>
-                    <div class="row container">
-                      <div class="col s12 m12"></div>
-                      <div class="col s12 m12 l12"></div>
-                    </div>
-                    <! -- INIT CIRCUITO 2019 -->
-                      <div  id="circuito2019"class="row container">
-                        <div class="col l12 s12 m12">
-                          <h2 class="black-text primaryFont" style="font-size:50px">Circuito 2019 </h1>
-                        </div>
-                        <div class="col l6 s12 m12">
-                          <img src="./images/runningseriescircuito_2019.jpg" style="width:100%">
-                        </div>
-                        <div class="col l6 s12 m12">
-                          <h2 class="black-text primaryFont" style="font-size:50px">Resultados</h2>
-                          <div class="col s12 m12 l12">
-                            <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriescircuito_2019.pdf" target="_blank">
-                              <i class="material-icons">file_download</i>Descargar </a>
-                          </div>
-                        </div>
-                        <div class="col l6 s12 m12">
-                          <h2 class="black-text primaryFont" style="font-size:50px">Reglamento</h2>
-                          <div class="col s12 m12 l12">
-                            <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningSeries2019-Reglamento.pdf" target="_blank">
-                              <i class="material-icons">file_download</i>Descargar </a>
-                          </div>
-                        </div>
-                      </div>
-                      <! -- END CIRCUITO 2019 -->
-                        <! -- INIT CORDOBA 2019 -->
-                          <div id="aje2019" class="row container">
-                            <div class="col l12 s12 m12">
-                              <h2 class="black-text primaryFont" style="font-size:50px">AJE Córdoba 2019 </h1>
-                            </div>
-                            <div class="col l6 s12 m12">
-                              <img src="./images/runningseriescordoba_2019.jpg" style="width:100%">
-                            </div>
-                            <div class="col l6 s12 m12">
-                              <h2 class="black-text primaryFont" style="font-size:50px">Resultados</h2>
-                              <div class="col s12 m12 l12">
-                                <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriescordoba_2019.pdf" target="_blank">
-                                  <i class="material-icons">file_download</i>Descargar </a>
-                              </div>
-                            </div>
-                            <div class="col l6 s12 m12">
-                              <h2 class="black-text primaryFont" style="font-size:50px">Galeria</h2>
-                              <div class="row container">
-                                <div class="col s12 m12 l12">
-                                  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="http://www.tusresulta2.com/galeria?carrera=cordoba&year=2019" target="_blank">
-                                    <i class="material-icons">camera_alt</i>Fotos </a>
-                                </div>
-                              </div>
-                              <div class="row container">
-                                <div class="col s12 m12 l12">
-                                  <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://www.youtube.com/watch?v=1orNwZTNqlI" target="_blank">
-                                    <i class="material-icons">videocam</i>Video Resumen </a>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <! -- END CORDOBA 2019 -->
-                            <! -- INIT PENARROYA 2019 -->
-                              <div id="penarroya2019" class="row container">
-                                <div class="col s12 m12">
-                                  <h2 class="black-text primaryFont" style="font-size:50px">Belmez-Peñarroya 2019</h2>
-                                </div>
-                                <div class="col l6 s12 m12">
-                                  <img src="./images/runningseriespenarroya_2019.jpg" style="width:100%">
-                                </div>
-                                <div class="col l6 s12 m12">
-                                  <h2 class="black-text primaryFont" style="font-size:50px">Resultados</h2>
-                                  <div class="col s12 m12 l12">
-                                    <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriespenarroya_2019.pdf" target="_blank">
-                                      <i class="material-icons">file_download</i>Descargar </a>
-                                  </div>
-                                </div>
-                                <div class="col l6 s12 m12">
-                                  <h2 class="black-text primaryFont" style="font-size:50px">Galeria</h2>
-                                  <div class="col s12 m12 l12">
-                                    <div class="row container">
-                                      <div class="col s12 m12 l12">
-                                        <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="http://www.tusresulta2.com/galeria?carrera=belmezpenarroya&year=2019" target="_blank">
-                                          <i class="material-icons">camera_alt</i>Fotos </a>
-                                      </div>
-                                    </div>
-                                    <div class="row container">
-                                      <div class="col s12 m12 l12">
-                                        <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://www.youtube.com/watch?v=BAnRY7oxcfE" target="_blank">
-                                          <i class="material-icons">videocam</i>Video Resumen </a>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <! -- END PENARROYA 2019 -->
-                                <! -- INIT ENCINAREJO 2019 -->
-                                  <div id="encinarejo2019" class="row container">
-                                    <div class="col l12 s12 m12">
-                                      <h2 class="black-text primaryFont" style="font-size:50px">Encinarejo 2019</h2>
-                                    </div>
-                                    <div class="col l6 s12 m12">
-                                      <img src="./images/runningseriesencinarejo_2019.jpg" style="width:100%">
-                                    </div>
-                                    <div class="col l6 s12 m12">
-                                      <h2 class="black-text primaryFont" style="font-size:50px">Resultados</h2>
-                                      <div class="col s12 m12 l12">
-                                        <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="/pdf/runningseriesencinarejo_2019.pdf" target="_blank">
-                                          <i class="material-icons">file_download</i>Descargar </a>
-                                      </div>
-                                    </div>
-                                    <div class="col l6 s12 m12">
-                                      <h2 class="black-text primaryFont" style="font-size:50px">Galeria</h2>
-                                      <div class="row container">
-                                        <div class="col s12 m12 l12">
-                                          <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="http://www.tusresulta2.com/galeria?carrera=encinarejo&year=2019" target="_blank">
-                                            <i class="material-icons">camera_alt</i>Fotos </a>
-                                        </div>
-                                      </div>
-                                      <div class="row container">
-                                        <div class="col s12 m12 l12">
-                                          <a class="waves-effect waves-light btn btn-large btnInscripciones secondaryColor-bg black-text" href="https://www.youtube.com/watch?v=0tUM0hRAuM0" target="_blank">
-                                            <i class="material-icons">videocam</i>Video Resumen </a>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <! -- END ENCINAREJO 2019 -->
-                  </div>
-                  <!-- END Section -->
-                  <footer class="page-footer docs-footer primaryColor-bg">
-                    <div class="container">
-                      <div class="row" style="margin-bottom: 0;">
-                        <div class="col s12 m10 offset-m1">
-                          <div class="row">
-                            <div class="col l4 s12">
-                              <h5>Circuito</h5>
-                              <ul>
-                                <li>
-                                  <a class="secondaryFont secondaryColor" href="#">Encinarejo</a>
-                                </li>
-                                <li>
-                                  <a class="secondaryFont secondaryColor" href="#">Bélmez-Peñarroya</a>
-                                </li>
-                                <li>
-                                  <a class="secondaryFont secondaryColor" href="#">Córdoba</a>
-                                </li>
-                              </ul>
-                            </div>
-                            <div class="col l4 s12" style="overflow: hidden;">
-                              <h5>Redes sociales</h5>
-                              <a href="https://www.facebook.com/SPGroupRunningSeries" target="_blank">
-                                <img src="./images/facebook_icon.png" alt="social facebook" style="width:64px">
-                              </a>
-                              <br>
-                            </div>
-                            <div class="col m12 l12 s12"> © <noscript>2019</noscript>
-                              <script type="text/javascript">
-                                document.write(new Date().getFullYear());
-                              </script> Running Series, Todos los derechos reservados. Desarrollado por <a class="secondaryColor" href="http://www.tusresulta2.com" target="_blank">TusResulta2.com</a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </footer>
-                  <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
-                  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-                  <script>
-                    $(document).ready(function() {
-                      $('.collapsible').collapsible();
-                      $('.sidenav').sidenav();
-                      $('.carousel').carousel();
-                      $('.modal').modal();
-                      $('select').formSelect();
-                      $('.fixed-action-btn').floatingActionButton();
-                      $('.carousel.carousel-slider').carousel({
-                        fullWidth: true,
-                        indicators: true
-                      });
-                      $('.tabs').tabs();
-                      $('.dropdown-trigger').dropdown();
-                      $('.slider').slider();
-                    });
+            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel"
+                    data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel"
+                    data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+    <!-- Carousel End -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1 class="text-uppercase">30 NOVIEMBRE 2024</h1>
+                <h2 class="text-uppercase">PARQUE DE MIRAFLORES CÓRDOBA</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/knY_UFJITpg?si=iENP8F9x-Q8HD4uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
 
-                    function toastDismiss() {
-                      M.Toast.dismissAll();
-                    }
-                  </script>
-    </body>
+    <!-- About Start -->
+    <div class="container-xxl py-5" id="carrera">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="d-flex flex-column">
+                        <img class="img-fluid w-100 align-self-end" src="2024/cordoba2024.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <h1 class="text-uppercase mb-4">SOMOS LA CARRERA DE LAS EMPRESAS! SOMOS LA CARRERA DE PAREJAS Y EQUIPOS !</h1>
+                    <p class="text-blue">Somos una carrera con un formato muy distinto a las carreras populares de cada fin de semana</p>
+                    <p class="mb-4 text-blue">5K o 10K en modalidad INDIVIDUAL, PAREJAS o EQUIPOS DE 4.</p>
+                    <p class="mb-4 text-blue">Esta edición de 2024 somos prueba puntuable para el Circuito de Carreras Populares de Córdoba.</p>
+                    <!--<a href="./2024/cordoba2024-reglamento.pdf" target="_blank" class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block margin-inferior">REGLAMENTO<i class="fa fa-file ms-3"></i></a>-->
+                    <a href="#" target="_blank" class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block margin-inferior">INSCRÍBETE PRÓXIMAMENTE<i class="fa fa-pen ms-3"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1 class="text-uppercase">CUALES SON LOS FORMATOS DE CARRERA ?</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">
+                        <div class="bg-red d-flex flex-shrink-0 align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                            <img class="img-fluid" src="img/haircut.png" alt="">
+                        </div>
+                        <div class="ps-4 text-blue">
+                            <h3 class="text-uppercase mb-3">5K INDIVIDUAL</h3>
+                            <p>Categorías de edad del Circuito Carreras Populares Córdoba</p>
+                            <span class="text-uppercase text-primary">Desde Junior hasta Veterano D</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">
+                        <div class="bg-red d-flex flex-shrink-0 align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                            <img class="img-fluid" src="img/haircut.png" alt="">
+                        </div>
+                        <div class="ps-4 text-blue">
+                            <h3 class="text-uppercase mb-3">5K PAREJAS</h3>
+                            <p>Siempre tienen que ir juntos de inicio a fin</p>
+                            <span class="text-uppercase text-primary">Pareja Masculina</span>
+                            <span class="text-uppercase text-primary">Pareja Femenina</span>
+                            <span class="text-uppercase text-primary">Pareja Mixta</span>
+                            <span class="text-uppercase text-primary">Pareja Diversidad</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">
+                        <div class="bg-red d-flex flex-shrink-0 align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                            <img class="img-fluid" src="img/haircut.png" alt="">
+                        </div>
+                        <div class="ps-4 text-blue">
+                            <h3 class="text-uppercase mb-3">5K EQUIPOS-4</h3>
+                            <p>Equipos de 4. Siempre tienen que ir juntos de inicio a fin</p>
+                            <span class="text-uppercase text-primary">Equipo Masculino</span>
+                            <span class="text-uppercase text-primary">Equipo Femenino</span>
+                            <span class="text-uppercase text-primary">Equipo Mixta</span>
+                            <span class="text-uppercase text-primary">Equipo Diversidad</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">
+                        <div class="bg-red d-flex flex-shrink-0 align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                            <img class="img-fluid" src="img/haircut.png" alt="">
+                        </div>
+                        <div class="ps-4 text-blue">
+                            <h3 class="text-uppercase mb-3">10K INDIVIDUAL</h3>
+                            <p>Categorías de edad del Circuito Carreras Populares Córdoba</p>
+                            <span class="text-uppercase text-primary">Desde Junior hasta Veterano D</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">
+                        <div class="bg-red d-flex flex-shrink-0 align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                            <img class="img-fluid" src="img/haircut.png" alt="">
+                        </div>
+                        <div class="ps-4 text-blue">
+                            <h3 class="text-uppercase mb-3">10K PAREJAS</h3>
+                            <p>Siempre tienen que ir juntos de inicio a fin</p>
+                            <span class="text-uppercase text-primary">Pareja Masculina</span>
+                            <span class="text-uppercase text-primary">Pareja Femenina</span>
+                            <span class="text-uppercase text-primary">Pareja Mixta</span>
+                            <span class="text-uppercase text-primary">Pareja Diversidad</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="service-item position-relative overflow-hidden bg-secondary d-flex h-100 p-5 ps-0">
+                        <div class="bg-red d-flex flex-shrink-0 align-items-center justify-content-center" style="width: 60px; height: 60px;">
+                            <img class="img-fluid" src="img/haircut.png" alt="">
+                        </div>
+                        <div class="ps-4 text-blue">
+                            <h3 class="text-uppercase mb-3">10K EQUIPOS-4</h3>
+                            <p>Equipos de 4. Siempre tienen que ir juntos de inicio a fin</p>
+                            <span class="text-uppercase text-primary">Equipo Masculino</span>
+                            <span class="text-uppercase text-primary">Equipo Femenino</span>
+                            <span class="text-uppercase text-primary">Equipo Mixta</span>
+                            <span class="text-uppercase text-primary">Equipo Diversidad</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+    <!-- Working Hours Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-0">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <div class="h-100">
+                        <img class="img-fluid h-100" src="img/open.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="bg-secondary h-100 d-flex flex-column justify-content-center p-5">
+                        <h1 class="text-uppercase mb-4">FECHAS</h1>
+                        <div>
+                            <div class="d-flex justify-content-between border-bottom py-2">
+                                <h6 class="text-uppercase mb-0 text-blue">APERTURA INSCRIPCIONES</h6>
+                                <span class="text-uppercase text-primary">10 OCTUBRE</span>
+                            </div>
+                            <div class="d-flex justify-content-between border-bottom py-2">
+                                <h6 class="text-uppercase mb-0 text-blue">CIERRE INSCRIPCIONES</h6>
+                                <span class="text-uppercase text-primary">27 NOVIEMBRE</span>
+                            </div>
+                            <div class="d-flex justify-content-between border-bottom py-2">
+                                <h6 class="text-uppercase mb-0 text-blue">REPARTO DORSALES</h6>
+                                <span class="text-uppercase text-primary">29 NOVIEMBRE</span>
+                            </div>
+                            <div class="d-flex justify-content-between border-bottom py-2">
+                                <h6 class="text-uppercase mb-0 text-blue">CARRERA</h6>
+                                <span class="text-uppercase text-primary">30 NOVIEMBRE</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Working Hours End -->
+    <!-- Service Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1 class="text-uppercase">EMPRESAS QUE NOS APOYAN</h1>
+            </div>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-spg.png' alt='SPG'>">
+                    <h4 class="text-uppercase">SPG</h4>
+                    <a href="https://www.spg-pack.com/" target="_blank"><p class="text-primary">spg-pack.com</p></a>
+                    <span class="fs-5 text-blue">Empresa líder del sector de fabricación de films (láminas y complejos) flexibles y rígidos para envasado de alimentación de Gran Consumo a nivel europeo.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-superate.png' alt='Superate Sports'>">
+                    <h4 class="text-uppercase">SUPERATE SPORTS</h4>
+                    <a href="https://superatesports.es/" target="_blank"><p class="text-primary">superatesports.es</p></a>
+                    <span class="fs-5 text-blue">
+                        Centro de entrenamiento en Córdoba. Supérate cada día, mejora tu condición física, sin excusas. Diversidad de entrenamientos y disciplinas que mejor se adapten a ti.
+                    </span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-ari.jpg' alt='ARI maquinaria'>">
+                    <h4 class="text-uppercase">ARI Maquinaria</h4>
+                    <a href="https://arimaquinaria.com/" target="_blank"><p class="text-primary">arimaquinaria.com</p></a>
+                    <span class="fs-5 text-blue">Servicio al cliente de primera, con entrega de mercancía en el lugar que prefieras y un servicio postventa integral. El compromiso incluye un servicio técnico y reparación propio en sus instalaciones, respaldado por un equipo altamente calificado.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-tosfrit.png' alt='tosfrit'>">
+                    <h4 class="text-uppercase">Tosfrit</h4>
+                    <a href="https://tosfrit.es" target="_blank"><p class="text-primary">tosfrit.es</p></a>
+                    <span class="fs-5 text-blue">Tosfrit es la marca de snacks que te acompaña en los mejores momentos: Apetinas, Kaskys, Picoteo y mucho más. Líderes en elaboración de aperitivos y snacks.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-mercadovictoria.png' alt='mercado victoria'>">
+                    <h4 class="text-uppercase">Mercado Victoria</h4>
+                    <a href="https://www.mercadovictoria.com/" target="_blank"><p class="text-primary">mercadovictoria.com</p></a>
+                    <span class="fs-5 text-blue">
+                        Primer mercado gourmet de Andalucía con más de 20 puestos gastronómicos en los que disfrutar cocina cordobesa, española e internacional. Un espacio que combina a la perfección la unión entre una excelente y variada gastronomía, y el mejor ambiente de la ciudad.
+                    </span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-arbonaida.png' alt='arbonaida'>">
+                    <h4 class="text-uppercase">Arbonaida</h4>
+                    <a href="https://arbonaida.com/" target="_blank"><p class="text-primary">arbonaida.com</p></a>
+                    <span class="fs-5 text-blue">Arbonaida, más que un aceite...Desde Córdoba, en Santa Cruz, plena campiña cordobesa, donde se producen algunos de los mejores aceites virgen extra del mundo por sus condiciones de clima y suelo.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-saile.png' alt='saile'>">
+                    <h4 class="text-uppercase">Saile Publicidad Exterior</h4>
+                    <a href="https://sailes.es/" target="_blank"><p class="text-primary">saile.es</p></a>
+                    <span class="fs-5 text-blue">Anuncia tu marca en zonas estratégicas de la ciudad. + 50.000 impactos diarios. 100% de cobertura en toda la ciudad. 75% más de visibilidad de marca.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-montanera.png' alt='solo montanera'>">
+                    <h4 class="text-uppercase">Solo Montanera</h4>
+                    <a href="https://solomontanera.com/" target="_blank"><p class="text-primary">solomontanera.com</p></a>
+                    <span class="fs-5 text-blue">Todos los productos SOLO MONTANERA son fruto de la selección más exclusiva de sus cerdos ibéricos, los cuales son criados en libertad en sus dehesas situadas en el Valle de Los Pedroches de Córdoba.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-fernandopineda.png' alt='deportes fernando pineda'>">
+                    <h4 class="text-uppercase">Deportes Fernando Pineda</h4>
+                    <a href="https://www.facebook.com/DeportesFernandoPinedaRunning" target="_blank"><p class="text-primary">Deportes Fernando Pineda</p></a>
+                    <span class="fs-5 text-blue">Tienda especializada en productos de atletismo en Córdoba.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-esalfe.png' alt='esalfe'>">
+                    <h4 class="text-uppercase">Esalfe</h4>
+                    <a href="https://esalfe.es/" target="_blank"><p class="text-primary">esalfe.es</p></a>
+                    <span class="fs-5 text-blue">Esalfe es tu empresa de alquiler de coches y alquiler de furgonetas en Córdoba.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-copyfax.png' alt='copyfax'>">
+                    <h4 class="text-uppercase">Copyfax</h4>
+                    <a href="https://copyfaxcor.com/" target="_blank"><p class="text-primary">copyfaxcor.com</p></a>
+                    <span class="fs-5 text-blue">Más de 25 años de experiencia en el sector de la venta, alquiler, mantenimiento, distribución y reparación de fotocopiadoras, impresoras, multifuncionales, escáner y otros equipos de oficina; así como la venta de sus consumibles.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Service End -->
+
+
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1 class="text-uppercase">Instituciones que nos apoyan</h1>
+            </div>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-aje.png' alt='AJE Córdoba'>">
+                    <h4 class="text-uppercase">AJE Córdoba</h4>
+                    <a href="https://www.ajeandalucia.org/cordoba/" target="_blank"><p class="text-primary">ajeandalucia.org/cordoba</p></a>
+                    <span class="fs-5 text-blue">La finalidad de AJE es representar y defender los intereses de los jóvenes empresarios de Córdoba, atendiendo a sus necesidades de formación, asesoramiento e información.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-diputacion.png' alt='diputacion cordoba'>">
+                    <h4 class="text-uppercase">Diputación de Córdoba</h4>
+                    <a href="https://www.dipucordoba.es/" target="_blank"><p class="text-primary">dipucordoba.es</p></a>
+                    <span class="fs-5 text-blue">La DIPUTACIÓN es el órgano de gobierno de la provincia, fomenta y administra sus intereses, asegura la prestación integral y adecuada de servicios públicos de competencia municipal en todo el territorio de la provincia.</span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-imdeco.png' alt='imdeco'>">
+                    <h4 class="text-uppercase">IMDECO</h4>
+                    <a href="https://www.imdcordoba.es/" target="_blank"><p class="text-primary">imdcordoba.es</p></a>
+                    <span class="fs-5 text-blue"></span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-faa.png' alt='federacion andaluza de atletismo'>">
+                    <h4 class="text-uppercase">Federación Andaluza de Atletismo</h4>
+                    <a href="https://atletismofaa.es/" target="_blank"><p class="text-primary">atletismofaa.es</p></a>
+                    <span class="fs-5 text-blue"></span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-ucosalud.png' alt='universidad de cordoba'>">
+                    <h4 class="text-uppercase">Universidad de Córdoba Vicerrectorado de Salud y Bienestar</h4>
+                    <a href="https://www.uco.es/servicios/prevencion/es/inicio-salud" target="_blank"><p class="text-primary">uco.es/servicios/prevencion</p></a>
+                    <span class="fs-5 text-blue"></span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-ucoveterinaria.png' alt='universidad de cordoba'>">
+                    <h4 class="text-uppercase">Universidad de Córdoba Facultad de Veterinaria</h4>
+                    <a href="https://www.uco.es/veterinaria/es/" target="_blank"><p class="text-primary">uco.es/veterinaria</p></a>
+                    <span class="fs-5 text-blue"></span>
+                </div>
+                <div class="testimonial-item text-center" data-dot="<img class='img-fluid' src='img/logo-pran.png' alt='resistencia antibioticos'>">
+                    <h4 class="text-uppercase">Plan Nacional Resistencia Antibióticos</h4>
+                    <a href="https://www.resistenciaantibioticos.es/" target="_blank"><p class="text-primary">resistenciaantibioticos.es</p></a>
+                    <span class="fs-5 text-blue">El Plan Nacional frente a la Resistencia a los Antibióticos (PRAN) es un plan estratégico y de acción cuyo objetivo es reducir el riesgo de selección y diseminación de resistencia a los antibióticos y, consecuentemente, reducir el impacto de este problema sobre la salud de las personas y los animales, preservando de manera sostenible la eficacia de los antibióticos existentes.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Start -->
+    <div class="container-fluid text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s" id="contacto">
+        <div class="container py-5">
+            <div class="row g-5">
+                <div class="col-lg-4 col-md-6">
+                    <h4 class="text-uppercase mb-4">CONTACTO</h4>
+                    <div class="d-flex align-items-center mb-2">
+                        <div class="btn-square flex-shrink-0 me-3">
+                            <span class="fa fa-map-marker-alt text-primary"></span>
+                        </div>
+                        <span>Parque Miraflores Córdoba</span>
+                    </div>
+                    <div class="d-flex align-items-center mb-2">
+                        <div class="btn-square flex-shrink-0 me-3">
+                            <span class="fa fa-phone-alt text-primary"></span>
+                        </div>
+                        <a href="tel:+34651533735" target="_blank"><span>651533735</span></a>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <div class="btn-square flex-shrink-0 me-3">
+                            <span class="fa fa-envelope-open text-primary"></span>
+                        </div>
+                        <a href="mailto:rsrunningseries@gmail.com" target="_blank"><span>rsrunningseries@gmail.com</span></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <h4 class="text-uppercase mb-4">Redes Sociales</h4>
+                    <div class="d-flex pt-1 m-n1">
+                        <a class="btn btn-lg-square text-primary m-1" href="https://www.instagram.com/spgrouprunningseries/" target="_blank"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-lg-square text-primary m-1" href="https://www.facebook.com/SPGroupRunningSeries" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-lg-square text-primary m-1" href="https://www.youtube.com/@runningseries" target="_blank"><i class="fab fa-youtube"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                        &copy; <a class="border-bottom" href="#">RunningSeries</a>, All Right Reserved.
+                    </div>
+                    <div class="col-md-6 text-center text-md-end">
+                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
+                        Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                        <br>Distributed By: <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
 </html>
