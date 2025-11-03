@@ -351,7 +351,7 @@ margin-bottom: 15px !important;
     min-width: 100%;
     height: auto;
     min-height: 100%;
-    background: transparent url('960x360.png') no-repeat;
+    background: transparent no-repeat;
     background-size: cover;
 }
 
