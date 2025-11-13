@@ -162,15 +162,21 @@
                 card.classList.add('card');
 
                 const clubName = item.Club && item.Club.trim() !== '' ? item.Club : '';
+                const year = new Date(item["Fecha Nacimiento"]);
+                const sexo = item.Sexo === 'Hombre' ? 'M' : 'F';
+                const team = item["Escoge el nombre que elegís como PAREJA"] && item["Escoge el nombre que elegís como PAREJA"].trim() != '' ? item["Escoge el nombre que elegís como PAREJA"] :
+        (item["Escoge el nombre que elegís como EQUIPO"] && item["Escoge el nombre que elegís como EQUIPO"].trim() != '' ? item["Escoge el nombre que elegís como EQUIPO"] : '')
 
                 const cardContent = `
                     <h3>${item.Nombre} ${item.Apellidos}</h3>
                     <p><strong>Dorsal:</strong> <span style="font-weight: bold; color: #d9534f;">${item.Dorsal}</span></p>
                     <p><strong>Carrera:</strong> ${item.Carrera}</p>
-                    <p><strong>Modalidad:</strong> ${item["Tipo inscripción"]}</p>
+                    <p><strong>Año:</strong> ${year.getFullYear()}</p>
+                    <p><strong>Sexo:</strong> ${sexo}</p>
+
+                    <p><strong>Team:</strong> ${team}</p>
                     <p><strong>Club:</strong> ${clubName}</p>
                     <p><strong>Empresa:</strong> ${item["Nombre de la Empresa que representas:"]}</p>
-                    <p><strong>Sexo:</strong> ${item.Sexo}</p>
                 `;
 
                 card.innerHTML = cardContent;
