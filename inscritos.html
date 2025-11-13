@@ -161,6 +161,7 @@
                 const card = document.createElement('div');
                 card.classList.add('card');
 
+                const modalidad = item["Tipo inscripción"].replace('Inscripción ','');
                 const clubName = item.Club && item.Club.trim() !== '' ? item.Club : '';
                 const year = new Date(item["Fecha Nacimiento"]);
                 const sexo = item.Sexo === 'Hombre' ? 'M' : 'F';
@@ -171,6 +172,7 @@
                     <h3>${item.Nombre} ${item.Apellidos}</h3>
                     <p><strong>Dorsal:</strong> <span style="font-weight: bold; color: #d9534f;">${item.Dorsal}</span></p>
                     <p><strong>Carrera:</strong> ${item.Carrera}</p>
+                    <p><strong>Modalidad:</strong> ${modalidad}</p>
                     <p><strong>Año:</strong> ${year.getFullYear()}</p>
                     <p><strong>Sexo:</strong> ${sexo}</p>
 
