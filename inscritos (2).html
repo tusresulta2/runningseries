@@ -11,7 +11,6 @@
             margin: 20px;
             background-color: #f4f7f6;
         }
-
         #search-container {
             margin-bottom: 30px;
             padding: 20px;
@@ -19,7 +18,6 @@
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         }
-
         #search-input {
             width: 100%;
             padding: 12px 20px;
@@ -30,19 +28,16 @@
             font-size: 16px;
             transition: border-color 0.3s;
         }
-
-            #search-input:focus {
-                border-color: #337ab7;
-                outline: none;
-            }
-
+        #search-input:focus {
+            border-color: #337ab7;
+            outline: none;
+        }
         #results-container {
             display: flex;
             flex-wrap: wrap;
             gap: 20px;
             justify-content: flex-start;
         }
-
         .card {
             background-color: #ffffff;
             border: 1px solid #ddd;
@@ -54,25 +49,21 @@
             min-width: 300px;
             box-sizing: border-box;
         }
-
-            .card h3 {
-                margin-top: 0;
-                margin-bottom: 10px;
-                color: #333;
-                font-size: 1.2em;
-            }
-
-            .card p {
-                margin: 5px 0;
-                color: #666;
-                line-height: 1.4;
-            }
-
-                .card p strong {
-                    color: #333;
-                    font-weight: 600;
-                }
-
+        .card h3 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: #333;
+            font-size: 1.2em;
+        }
+        .card p {
+            margin: 5px 0;
+            color: #666;
+            line-height: 1.4;
+        }
+        .card p strong {
+            color: #333;
+            font-weight: 600;
+        }
         .no-results {
             color: #d9534f;
             font-weight: bold;
@@ -88,7 +79,7 @@
     </div>
 
     <div id="results-container">
-    </div>
+        </div>
 
     <script>
         // 📚 1. JSON incrustado en JavaScript (Datos de output.json)
@@ -5209,7 +5200,7 @@
                 for (const key in item) {
                     if (item.hasOwnProperty(key)) {
                         const value = item[key];
-
+                        
                         // Convierte el valor a string para buscar (útil para números o IDs)
                         if (String(value).toLowerCase().includes(lowerCaseQuery)) {
                             // Si encuentra una coincidencia en CUALQUIER propiedad, incluye el ítem
@@ -5235,7 +5226,7 @@
             data.forEach(item => {
                 const card = document.createElement('div');
                 card.classList.add('card');
-
+                
                 // Las propiedades de tu JSON: Dorsal, Nombre, Apellidos, Sexo, Carrera, Tipo inscripción, Club
                 const clubName = item.Club && item.Club.trim() !== '' ? item.Club : 'Sin Club';
 
@@ -5254,7 +5245,7 @@
         }
 
         // 🚀 5. Inicialización y Event Listener
-
+        
         // Función principal que maneja la búsqueda y el renderizado
         function handleSearch() {
             const query = searchInput.value;
