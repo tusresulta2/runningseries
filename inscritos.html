@@ -10,88 +10,165 @@
     <meta property="og:title" content="Inscritos Carrera AJE Córdoba - La Carrera de las Empresas - 16 noviembre 2025" />
     <meta property="og:description" content="5K, 10K en individual, parejas o equipos de 4. Ven a correr el 16 de Noviembre a la Carrera AJE Córdoba en el Parque Miraflores con una espectacular llegada con la Mezquita-Catedral de fondo. 10K Prueba puntuable para el Circuito de Carreras Populares de Córdoba." />
 
-    <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
     <style>
         /* Estilos CSS BÁSICOS */
         body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-        background-color: #c9071d;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #c9071d;
         }
 
         #search-container {
-        margin-bottom: 30px;
-        padding: 20px;
-        background-color: #ffffff;
-        border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         }
 
+        /* --- BÚSQUEDA GENERAL --- */
+        #general-search-group {
+            margin-bottom: 20px;
+        }
         #search-input {
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        box-sizing: border-box;
-        border: 2px solid #c9071d;
-        border-radius: 4px;
-        font-size: 16px;
-        transition: border-color 0.3s;
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+        #search-input:focus {
+            border-color: #c9071d;
+            outline: none;
         }
 
-        #search-input:focus {
-        border-color: #337ab7;
-        outline: none;
+        /* --- ESTILOS DE FILTRO --- */
+        #filters-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
+            align-items: flex-end;
         }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            min-width: 150px;
+            flex-grow: 1;
+        }
+
+        .filter-group label {
+            font-size: 0.8em;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #333;
+        }
+
+        .filter-group select {
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            min-height: 40px;
+        }
+
+        /* Estilo para Multi-Select */
+        .filter-group select[multiple] {
+            height: 120px;
+            border: 2px solid #c9071d;
+        }
+
+        /* ESTILOS DE BOTONES */
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+            height: 40px;
+            min-width: 150px;
+            flex-grow: 1;
+        }
+
+        #apply-filter-btn, #reset-filter-btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s;
+            flex-grow: 1;
+            white-space: nowrap;
+        }
+
+        #apply-filter-btn {
+            background-color: #c9071d;
+            color: white;
+        }
+
+        #apply-filter-btn:hover {
+            background-color: #a30616;
+        }
+
+        #reset-filter-btn {
+            background-color: #f0ad4e;
+            color: white;
+        }
+
+        #reset-filter-btn:hover {
+            background-color: #ec971f;
+        }
+
         /* ESTILO PARA EL CONTADOR */
         #record-count {
-        margin-top: 10px;
-        font-weight: bold;
-        color: #333;
-        font-size: 1.1em;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #333;
+            font-size: 1.1em;
         }
 
         #results-container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        justify-content: flex-start;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: flex-start;
         }
 
         .card {
-        background-color: #ffffff;
-        border: 1px solid #ddd;
-        border-left: 5px solid #c9071d; /* Color de acento */
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        padding: 15px;
-        width: 320px; /* Ancho fijo para las tarjetas */
-        min-width: 300px;
-        box-sizing: border-box;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-left: 5px solid #c9071d;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            width: 320px;
+            min-width: 300px;
+            box-sizing: border-box;
         }
 
         .card h3 {
-        margin-top: 0;
-        margin-bottom: 10px;
-        color: #333;
-        font-size: 1.2em;
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: #333;
+            font-size: 1.2em;
         }
 
         .card p {
-        margin: 5px 0;
-        color: #666;
-        line-height: 1.4;
+            margin: 5px 0;
+            color: #666;
+            line-height: 1.4;
         }
 
         .card p strong {
-        color: #333;
-        font-weight: 600;
+            color: #333;
+            font-weight: 600;
         }
 
         .no-results {
-        color: #d9534f;
-        font-weight: bold;
-        padding: 15px;
+            color: #d9534f;
+            font-weight: bold;
+            padding: 15px;
         }
     </style>
 </head>
@@ -99,8 +176,54 @@
 
     <div id="search-container">
         <h1>🔍 Búsqueda de inscripciones SPG RunningSeries AJE Córdoba 2025</h1>
-        <input type="text" id="search-input" placeholder="Buscar por Nombre, Apellidos, Dorsal, Carrera o Club...">
-        <div id="record-count"></div>
+
+        <div id="general-search-group">
+            <input type="text" id="search-input" placeholder="Búsqueda General por Nombre, Apellidos, Dorsal, Club, etc." disabled>
+        </div>
+
+        <div id="filters-container">
+
+            <div class="filter-group">
+                <label for="filter-carrera">Carrera</label>
+                <select id="filter-carrera" multiple disabled>
+                    <option value="" disabled>Cargando...</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="filter-sexo">Sexo</label>
+                <select id="filter-sexo" multiple disabled>
+                    <option value="" disabled>Cargando...</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="filter-modalidad">Modalidad</label>
+                <select id="filter-modalidad" multiple disabled>
+                    <option value="" disabled>Cargando...</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="filter-club">Club</label>
+                <select id="filter-club" multiple disabled>
+                    <option value="" disabled>Cargando...</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label for="filter-empresa">Empresa</label>
+                <select id="filter-empresa" multiple disabled>
+                    <option value="" disabled>Cargando...</option>
+                </select>
+            </div>
+
+            <div class="action-buttons">
+                <button id="apply-filter-btn" disabled>Aplicar Filtros</button>
+                <button id="reset-filter-btn" disabled>Restablecer Filtros</button>
+            </div>
+        </div>
+        <div id="record-count">Cargando datos...</div>
     </div>
 
     <div id="results-container">
@@ -110,50 +233,206 @@
         const searchInput = document.getElementById('search-input');
         const resultsContainer = document.getElementById('results-container');
         const recordCount = document.getElementById('record-count');
+        const applyFilterBtn = document.getElementById('apply-filter-btn');
+        const resetFilterBtn = document.getElementById('reset-filter-btn');
+
+        const filterCarrera = document.getElementById('filter-carrera');
+        const filterSexo = document.getElementById('filter-sexo');
+        const filterModalidad = document.getElementById('filter-modalidad');
+        const filterClub = document.getElementById('filter-club');
+        const filterEmpresa = document.getElementById('filter-empresa');
+
+        // Columnas mapeadas a sus select IDs
+        const FILTER_CONFIG = {
+            'Carrera': filterCarrera,
+            'Sexo': filterSexo,
+            'Modalidad': filterModalidad,
+            'Club': filterClub,
+            'Nombre de la Empresa que representas:': filterEmpresa
+        };
 
         // Variable global para almacenar los datos una vez cargados
         let ALL_RUNNERS_DATA = [];
 
-        // ⚙️ 2. Función de Búsqueda
-        function searchData(query) {
-            const lowerCaseQuery = query.toLowerCase().trim();
-
-            if (lowerCaseQuery === '') {
-                // Si la búsqueda está vacía, mostrar todos los resultados
-                return ALL_RUNNERS_DATA;
-            }
-
-            // Filtra los datos
-            const results = ALL_RUNNERS_DATA.filter(item => {
-                for (const key in item) {
-                    if (item.hasOwnProperty(key)) {
-                        const value = item[key];
-                        if (String(value).toLowerCase().includes(lowerCaseQuery)) {
-                            return true;
-                        }
-                    }
-                }
-                return false;
-            });
-
-            return results;
+        // 🆕 FUNCIÓN DE NORMALIZACIÓN DE TEXTO
+        /**
+         * Limpia una cadena de texto para la búsqueda:
+         * 1. Convierte a minúsculas.
+         * 2. Elimina acentos (ñ -> n, é -> e).
+         * 3. Elimina caracteres no alfanuméricos ni espacios (caracteres especiales, puntos, comas).
+         * @param {string} text
+         * @returns {string} Texto normalizado para búsqueda.
+         */
+        function normalizeText(text) {
+            if (!text) return '';
+            // 1. Normaliza y elimina diacríticos (acentos)
+            return String(text)
+                .toLowerCase()
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "") // Elimina acentos/diacríticos
+                .replace(/[^a-z0-9\s]/g, '')    // Elimina caracteres especiales (mantiene espacios y letras/números)
+                .trim();
         }
 
-        // 🖼️ 3. Función para Renderizar los Resultados
+
+        // ⚙️ 2. Función de Extracción y Normalización (para filtros)
+        function getUniqueValues(data, key) {
+            const values = data.map(item => {
+                // Lógica especial para Modalidad
+                if (key === 'Modalidad') {
+                    return item["Tipo inscripción"] ? item["Tipo inscripción"].replace('Inscripción ', '') : 'Otros';
+                }
+
+                // Lógica especial para Club y Empresa (manejar valores vacíos)
+                let value = item[key];
+                if (key === 'Club' || key === 'Nombre de la Empresa que representas:') {
+                    value = value && value.trim() !== '' ? value : 'Sin especificar';
+                }
+
+                return String(value || '').trim();
+            });
+
+            const unique = [...new Set(values)];
+
+            return unique.filter(v => v !== '').sort((a, b) => {
+                if (a === 'Sin especificar') return 1;
+                if (b === 'Sin especificar') return -1;
+                return a.localeCompare(b);
+            });
+        }
+
+        // ⚙️ 3. Función para poblar los selects con opciones
+        function populateFilters() {
+            for (const key in FILTER_CONFIG) {
+                const selectElement = FILTER_CONFIG[key];
+                const uniqueValues = getUniqueValues(ALL_RUNNERS_DATA, key);
+
+                selectElement.innerHTML = '';
+
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = `(${uniqueValues.length} Opciones disponibles)`;
+                defaultOption.disabled = true;
+                selectElement.appendChild(defaultOption);
+
+                uniqueValues.forEach(value => {
+                    const option = document.createElement('option');
+                    option.value = value;
+                    option.textContent = value;
+                    selectElement.appendChild(option);
+                });
+
+                selectElement.disabled = false;
+            }
+
+            applyFilterBtn.disabled = false;
+            resetFilterBtn.disabled = false;
+            searchInput.disabled = false;
+        }
+
+        // ⚙️ 4. Función de Filtrado (Combinada: Búsqueda de Texto + Multi-Select)
+        function applyFilters() {
+            let filteredData = ALL_RUNNERS_DATA;
+            const activeSelectFilters = {};
+            // Normalizar el texto de búsqueda del usuario una sola vez
+            const normalizedQuery = normalizeText(searchInput.value);
+            let isGeneralSearchActive = normalizedQuery !== '';
+
+            // --- FASE 1: Aplicar Filtro de Búsqueda General (Texto) ---
+            if (isGeneralSearchActive) {
+                filteredData = filteredData.filter(item => {
+                    for (const key in item) {
+                        if (item.hasOwnProperty(key)) {
+                            const value = item[key];
+                            // Normalizar el valor del JSON antes de comparar
+                            const normalizedValue = normalizeText(value);
+
+                            if (normalizedValue.includes(normalizedQuery)) {
+                                return true;
+                            }
+                        }
+                    }
+                    return false;
+                });
+            }
+
+            // --- FASE 2: Recoger Filtros Multi-Select ---
+            for (const key in FILTER_CONFIG) {
+                const selectElement = FILTER_CONFIG[key];
+                const selectedValues = Array.from(selectElement.options)
+                    .filter(option => option.selected)
+                    .map(option => option.value);
+
+                if (selectedValues.length > 0) {
+                    activeSelectFilters[key] = selectedValues;
+                }
+            }
+
+            // --- FASE 3: Aplicar Filtros Multi-Select sobre los resultados filtrados por texto ---
+            if (Object.keys(activeSelectFilters).length > 0) {
+                filteredData = filteredData.filter(item => {
+                    let matchesAllCriteria = true;
+
+                    for (const filterKey in activeSelectFilters) {
+                        const selectedValues = activeSelectFilters[filterKey];
+
+                        // Determinar el valor del elemento a comparar (con la lógica de normalización de filtros)
+                        let itemValue;
+                        if (filterKey === 'Modalidad') {
+                            itemValue = item["Tipo inscripción"] ? item["Tipo inscripción"].replace('Inscripción ', '') : 'Otros';
+                        } else if (filterKey === 'Club' || filterKey === 'Nombre de la Empresa que representas:') {
+                            itemValue = item[filterKey] && item[filterKey].trim() !== '' ? item[filterKey] : 'Sin especificar';
+                        } else {
+                            itemValue = String(item[filterKey] || '').trim();
+                        }
+
+                        // Los valores de los selects ya están estandarizados/limpios, no necesitan la normalización completa
+                        if (!selectedValues.includes(itemValue)) {
+                            matchesAllCriteria = false;
+                            break;
+                        }
+                    }
+
+                    return matchesAllCriteria;
+                });
+            }
+
+            // Si no hay filtros de texto NI de select, mostramos todos los datos
+            if (!isGeneralSearchActive && Object.keys(activeSelectFilters).length === 0) {
+                filteredData = ALL_RUNNERS_DATA;
+            }
+
+            renderResults(filteredData);
+        }
+
+        // 5. Función para Restablecer Filtros
+        function resetFilters() {
+            // Restablecer la búsqueda general
+            searchInput.value = '';
+
+            // Restablecer los selects
+            for (const key in FILTER_CONFIG) {
+                const selectElement = FILTER_CONFIG[key];
+                Array.from(selectElement.options).forEach(option => {
+                    option.selected = false;
+                });
+            }
+
+            // Aplicar filtros para mostrar todos los resultados
+            applyFilters();
+        }
+
+
+        // 6. Función para Renderizar los Resultados (Mantenida)
         function renderResults(data) {
-            resultsContainer.innerHTML = ''; // Limpia el contenedor
+            resultsContainer.innerHTML = '';
             const totalRecords = ALL_RUNNERS_DATA.length;
             const foundRecords = data.length;
 
-            // Actualiza el contador de registros
-            if (searchInput.value.trim() === '') {
-                recordCount.textContent = `Mostrando ${totalRecords} registros totales.`;
-            } else {
-                recordCount.textContent = `Se encontraron ${foundRecords} de ${totalRecords} registros.`;
-            }
+            recordCount.textContent = `Mostrando ${foundRecords} de ${totalRecords} registros.`;
 
             if (data.length === 0) {
-                resultsContainer.innerHTML = '<p class="no-results">No se encontraron resultados que coincidan con la búsqueda.</p>';
+                resultsContainer.innerHTML = '<p class="no-results">No se encontraron resultados que coincidan con los filtros aplicados.</p>';
                 return;
             }
 
@@ -162,23 +441,28 @@
                 card.classList.add('card');
 
                 const modalidad = item["Tipo inscripción"].replace('Inscripción ','');
-                const clubName = item.Club && item.Club.trim() !== '' ? item.Club : '';
+                const clubName = item.Club && item.Club.trim() !== '' ? item.Club : 'Sin especificar';
+
                 const year = new Date(item["Fecha Nacimiento"]);
+                const yearText = isNaN(year.getFullYear()) ? 'N/A' : year.getFullYear();
+
                 const sexo = item.Sexo === 'Hombre' ? 'M' : 'F';
+
                 const team = item["Escoge el nombre que elegís como PAREJA"] && item["Escoge el nombre que elegís como PAREJA"].trim() != '' ? item["Escoge el nombre que elegís como PAREJA"] :
-        (item["Escoge el nombre que elegís como EQUIPO"] && item["Escoge el nombre que elegís como EQUIPO"].trim() != '' ? item["Escoge el nombre que elegís como EQUIPO"] : '')
+                    (item["Escoge el nombre que elegís como EQUIPO"] && item["Escoge el nombre que elegís como EQUIPO"].trim() != '' ? item["Escoge el nombre que elegís como EQUIPO"] : 'N/A')
+
+                const empresaName = item["Nombre de la Empresa que representas:"] && item["Nombre de la Empresa que representas:"].trim() !== '' ? item["Nombre de la Empresa que representas:"] : 'Sin especificar';
 
                 const cardContent = `
                     <h3>${item.Nombre} ${item.Apellidos}</h3>
                     <p><strong>Dorsal:</strong> <span style="font-weight: bold; color: #d9534f;">${item.Dorsal}</span></p>
                     <p><strong>Carrera:</strong> ${item.Carrera}</p>
                     <p><strong>Modalidad:</strong> ${modalidad}</p>
-                    <p><strong>Año:</strong> ${year.getFullYear()}</p>
+                    <p><strong>Año:</strong> ${yearText}</p>
                     <p><strong>Sexo:</strong> ${sexo}</p>
-
                     <p><strong>Team:</strong> ${team}</p>
                     <p><strong>Club:</strong> ${clubName}</p>
-                    <p><strong>Empresa:</strong> ${item["Nombre de la Empresa que representas:"]}</p>
+                    <p><strong>Empresa:</strong> ${empresaName}</p>
                 `;
 
                 card.innerHTML = cardContent;
@@ -186,39 +470,35 @@
             });
         }
 
-        // 🚀 4. Función principal que maneja la búsqueda y el renderizado
-        function handleSearch() {
-            const query = searchInput.value;
-            const results = searchData(query);
-            renderResults(results);
-        }
 
-        // 💾 5. Función para cargar el JSON y inicializar la aplicación
+        // 7. Función para cargar el JSON y inicializar la aplicación
         async function loadDataAndInit() {
             try {
-                // FETCH API para cargar el JSON desde el archivo local
+                recordCount.textContent = 'Cargando datos...';
+
                 const response = await fetch('inscritos.json');
 
                 if (!response.ok) {
                     throw new Error(`Error ${response.status}: Archivo no encontrado o error en el servidor.`);
                 }
 
-                // Asigna el JSON parseado a la variable global
                 ALL_RUNNERS_DATA = await response.json();
 
-                // Habilita el input de búsqueda
-                searchInput.disabled = false;
-                searchInput.placeholder = "Buscar por Nombre, Apellidos, Dorsal, Carrera, Club, Empresa...";
+                // 1. PUEBLA los select de filtros con los valores únicos
+                populateFilters();
 
-                // Inicializa la vista con todos los datos
-                handleSearch();
+                // 2. Inicializa la vista con todos los datos
+                applyFilters();
 
-                // Asigna el event listener una vez que los datos están listos
-                searchInput.addEventListener('input', handleSearch);
+                // 3. Asigna el event listener a los botones
+                applyFilterBtn.addEventListener('click', applyFilters);
+                resetFilterBtn.addEventListener('click', resetFilters);
+
+                // 4. Asigna el event listener a la caja de búsqueda (para aplicar filtros automáticamente)
+                searchInput.addEventListener('input', applyFilters);
 
             } catch (error) {
-                // Manejo de errores de carga
-                resultsContainer.innerHTML = '<p class="no-results">❌ Error al cargar los datos. Verifica que el archivo **output.json** exista en la misma carpeta y que estés ejecutando la página en un servidor web.</p>';
+                resultsContainer.innerHTML = '<p class="no-results">❌ Error al cargar los datos. Verifica que el archivo **inscritos.json** exista en la misma carpeta y que estés ejecutando la página en un servidor web.</p>';
                 recordCount.textContent = '0 registros.';
                 console.error('Error al iniciar la aplicación:', error);
             }
