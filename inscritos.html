@@ -17,7 +17,7 @@
         body {
         font-family: Arial, sans-serif;
         margin: 20px;
-        background-color: #f4f7f6;
+        background-color: #c9071d;
         }
 
         #search-container {
@@ -33,7 +33,7 @@
         padding: 12px 20px;
         margin: 8px 0;
         box-sizing: border-box;
-        border: 2px solid #5cb85c;
+        border: 2px solid #c9071d;
         border-radius: 4px;
         font-size: 16px;
         transition: border-color 0.3s;
@@ -61,7 +61,7 @@
         .card {
         background-color: #ffffff;
         border: 1px solid #ddd;
-        border-left: 5px solid #5cb85c; /* Color de acento */
+        border-left: 5px solid #c9071d; /* Color de acento */
         border-radius: 8px;
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         padding: 15px;
@@ -98,7 +98,7 @@
 <body>
 
     <div id="search-container">
-        <h1>🔍 Lista de Corredores</h1>
+        <h1>🔍 Búsqueda de inscripciones SPG RunningSeries AJE Córdoba 2025</h1>
         <input type="text" id="search-input" placeholder="Buscar por Nombre, Apellidos, Dorsal, Carrera o Club...">
         <div id="record-count"></div>
     </div>
@@ -5263,11 +5263,11 @@
             const totalRecords = DATA.length;
             const foundRecords = data.length;
 
-            // Actualiza el contador de registros
+            // Actualiza el contador de inscripciones
             if (searchInput.value.trim() === '') {
-                recordCount.textContent = `Mostrando ${totalRecords} registros totales.`;
+                recordCount.textContent = `Mostrando ${totalRecords} inscripciones totales.`;
             } else {
-                recordCount.textContent = `Se encontraron ${foundRecords} de ${totalRecords} registros.`;
+                recordCount.textContent = `Se encontraron ${foundRecords} de ${totalRecords} inscripciones.`;
             }
 
             if (data.length === 0) {
