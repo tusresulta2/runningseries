@@ -189,10 +189,10 @@
                 const modalidad = item["Tipo inscripción"].replace('Inscripción ','');
                 const clubName = item.Club && item.Club.trim() !== '' ? item.Club : '';
                 const year = new Date(item["Fecha Nacimiento"]);
-                const yearText = isNaN(year.getFullYear()) ? 'N/A' : year.getFullYear();
+                const yearText = isNaN(year.getFullYear()) ? '' : year.getFullYear();
                 const sexo = item.Sexo === 'Hombre' ? 'M' : 'F';
                 const team = item["Escoge el nombre que elegís como PAREJA"] && item["Escoge el nombre que elegís como PAREJA"].trim() != '' ? item["Escoge el nombre que elegís como PAREJA"] :
-        (item["Escoge el nombre que elegís como EQUIPO"] && item["Escoge el nombre que elegís como EQUIPO"].trim() != '' ? item["Escoge el nombre que elegís como EQUIPO"] : 'N/A')
+        (item["Escoge el nombre que elegís como EQUIPO"] && item["Escoge el nombre que elegís como EQUIPO"].trim() != '' ? item["Escoge el nombre que elegís como EQUIPO"] : '')
 
                 const cardContent = `
                     <h3>${item.Nombre} ${item.Apellidos}</h3>
