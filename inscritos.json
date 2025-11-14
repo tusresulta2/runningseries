@@ -8,6 +8,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -21,6 +22,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEA",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -34,6 +36,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -47,6 +50,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "ExBuhitos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -60,6 +64,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "INDEA",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "ExBuhitos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -73,6 +78,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "PACOTRY",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -86,6 +92,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "PACOTRY",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -99,6 +106,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -112,6 +120,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -125,6 +134,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -138,6 +148,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "HABI accesible",
     "Escoge el nombre que elegís como PAREJA": "HABI",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -151,6 +162,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "HABI accesible",
     "Escoge el nombre que elegís como PAREJA": "HABI",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -164,6 +176,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club atletismo cordobes",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -177,6 +190,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -190,6 +204,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Indea",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "IC",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -203,6 +218,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD Indea",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -216,6 +232,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -229,6 +246,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -242,6 +260,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.A. Trotacalles",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -255,6 +274,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "TROTASIERRA HORNACHUELOS",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -268,6 +288,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "TROTASIERRA HORNACHUELOS",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -281,6 +302,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -294,6 +316,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra Hornachuelos",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -307,6 +330,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ReJardin Paisajismo",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -320,6 +344,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Califa",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -333,6 +358,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C. D. INDEA",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -346,6 +372,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Monte cobre trail",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Semillas Silvestres",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -359,6 +386,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -372,6 +400,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -385,6 +414,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "Ab Mauri Food",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -398,6 +428,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEOENDIENTE",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -411,6 +442,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -424,6 +456,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club Atletismo Cordobes",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -437,6 +470,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -450,6 +484,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Club Montecobre Trail",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Tres Con Sur",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -463,6 +498,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Club Montecobre Trail",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Tres Con Sur",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -476,6 +512,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Andalucía Fomenta",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -489,6 +526,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Lotta Talent",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -502,6 +540,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD BOQUERÓN RUNNING",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -515,6 +554,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "ninguno",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -528,6 +568,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -541,6 +582,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -554,6 +596,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -567,6 +610,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -580,6 +624,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "INDEA",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Scorpions",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -593,6 +638,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Amo Allá",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Scorpions",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -606,6 +652,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "La Banda del Parque",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -619,6 +666,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "VIRGEN DE BELEN",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -632,6 +680,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Los Híbridos"
@@ -645,6 +694,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Los Híbridos"
@@ -658,6 +708,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Los Híbridos"
@@ -671,6 +722,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Los Híbridos"
@@ -684,6 +736,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -697,6 +750,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -710,6 +764,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Lynx Trail",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "ICOFER",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -723,6 +778,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Independiente",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -736,6 +792,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -749,6 +806,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Las glúteo power"
@@ -762,6 +820,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Las glúteo power"
@@ -775,6 +834,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Las glúteo power"
@@ -788,6 +848,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Las glúteo power"
@@ -801,6 +862,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -814,6 +876,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Club Atletismo cordobes",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -827,6 +890,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "La farola",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -840,6 +904,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.A LA FAROLA",
+    "Talla de camiseta": "3XL",
     "Nombre de la Empresa que representas:": "Ático 07 SL",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -853,6 +918,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.A LA FAROLA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -866,6 +932,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "no",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -879,6 +946,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.D.INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -892,6 +960,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.D.INDEA",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -905,6 +974,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Omeyas Trail",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Obrador Santa Victoria",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -918,6 +988,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Tréximo",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -931,6 +1002,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -944,6 +1016,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Indea",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los Compinches",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -957,6 +1030,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Indea",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los Compinches",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -970,6 +1044,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -983,6 +1058,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -996,6 +1072,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD TRIGUADIATO",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1009,6 +1086,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1022,6 +1100,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1035,6 +1114,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1048,6 +1128,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1061,6 +1142,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD. GUERREROS DE LA GUZMÁN",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Supérate Sports",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1074,6 +1156,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Supérate Sports",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1087,6 +1170,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Trotacalles",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1100,6 +1184,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1113,6 +1198,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1126,6 +1212,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "GUERREROS DE LA GUZMAN",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1139,6 +1226,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1152,6 +1240,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1165,6 +1254,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Dúo Aventurero",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1178,6 +1268,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Dúo Aventurero",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1191,6 +1282,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "Wholesome Journeys",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1204,6 +1296,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1217,6 +1310,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1230,6 +1324,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1243,6 +1338,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1256,6 +1352,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1269,6 +1366,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "ANDALUCIA FOMENTA",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "ANDALUCIA FOMENTA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1282,6 +1380,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.D. Boqueron running",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1295,6 +1394,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1308,6 +1408,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1321,6 +1422,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1334,6 +1436,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "C.D. BOQUERÓN RUNNING",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "LOS ROMANOS",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1347,6 +1450,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "LOS ROMANOS",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1360,6 +1464,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "RRTEAM",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "RRTEAM",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1373,6 +1478,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "RRTEAM",
+    "Talla de camiseta": "3XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "RRTEAM",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1386,6 +1492,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Córdoba Patrimonio Club Atletismo Cordobés",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1399,6 +1506,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1412,6 +1520,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1425,6 +1534,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1438,6 +1548,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1451,6 +1562,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1464,6 +1576,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1477,6 +1590,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1490,6 +1604,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1503,6 +1618,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1516,6 +1632,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Los califas",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1529,6 +1646,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Los califas",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1542,6 +1660,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1555,6 +1674,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1568,6 +1688,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1581,6 +1702,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "COMADRES",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1594,6 +1716,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "COMADRES",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1607,6 +1730,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Bubu y Dudu",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1620,6 +1744,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Bubu y Dudu",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1633,6 +1758,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Club Atletismo Palma del rio",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "DayRa",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1646,6 +1772,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "DayRa",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1659,6 +1786,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "VBECO",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1672,6 +1800,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1685,6 +1814,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1698,6 +1828,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1711,6 +1842,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1724,6 +1856,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "La banda del parque",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1737,6 +1870,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1750,6 +1884,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1763,6 +1898,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1776,6 +1912,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los Tamicos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1789,6 +1926,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los Tamicos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1802,6 +1940,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "CRACKS",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1815,6 +1954,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "CRACKS",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1828,6 +1968,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "ToposRun",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1841,6 +1982,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "ToposRun",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1854,6 +1996,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "ANDALUCÍA FOMENTA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "ANDALUCIA FOMENTA"
@@ -1867,6 +2010,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "ANDALUCÍA FOMENTA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "ANDALUCIA FOMENTA"
@@ -1880,6 +2024,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ANDALUCÍA FOMENTA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "ANDALUCIA FOMENTA"
@@ -1893,6 +2038,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ANDALUCIA FOMENTA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "ANDALUCIA FOMENTA"
@@ -1906,6 +2052,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Doble A",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1919,6 +2066,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Doble A",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1932,6 +2080,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1945,6 +2094,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "A.C. LA SAETA NO SE PIERDE",
     "Escoge el nombre que elegís como PAREJA": "A.C.LA SAETA NO SE PIERDE",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1958,6 +2108,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "A.C.LA SAETA NO SE PIERDE",
     "Escoge el nombre que elegís como PAREJA": "A.C.LA SAETA NO SE PIERDE",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1971,6 +2122,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra Hornachuelos",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1984,6 +2136,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra Hornachuelos",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -1997,6 +2150,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "FFB Croqueta's Club -1",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2010,6 +2164,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "FFB Croqueta's Club -1",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2023,6 +2178,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Tablero 25",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2036,6 +2192,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Tablero 25",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2049,6 +2206,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de belen",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2062,6 +2220,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2075,6 +2234,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Cd media legua",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2088,6 +2248,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén Córdoba",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2101,6 +2262,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2114,6 +2276,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2127,6 +2290,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2140,6 +2304,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2153,6 +2318,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2166,6 +2332,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2179,6 +2346,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2192,6 +2360,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Reina Sofía University Hospital",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2205,6 +2374,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2218,6 +2388,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra- Hornachuelos",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "Taberna La Yerrbabuena",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2231,6 +2402,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2244,6 +2416,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Al-Ándalus",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2257,6 +2430,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Al-Ándalus",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2270,6 +2444,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Al-Ándalus",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2283,6 +2458,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "BATALLA DE ALCOLEA",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "autoescuela centro formacion vistalegre",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2296,6 +2472,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "ct-alfanadic",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "mystery fit",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2309,6 +2486,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2322,6 +2500,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Liga de empresas Aire Sport",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2335,6 +2514,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "atletismo Palma del Rio",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2348,6 +2528,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "BROOKLYN FITBOXING",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "BROOKLYN FITBOXING"
@@ -2361,6 +2542,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "BROOKLYN FITBOXING",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "BROOKLYN FITBOXING"
@@ -2374,6 +2556,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "BROOKLYN FITBOXING",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "BROOKLYN FITBOXING"
@@ -2387,6 +2570,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "BROOKLYN FITBOXING",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "BROOKLYN FITBOXING"
@@ -2400,6 +2584,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "-",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2413,6 +2598,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2426,6 +2612,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2439,6 +2626,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2452,6 +2640,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2465,6 +2654,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2478,6 +2668,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2491,6 +2682,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2504,6 +2696,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2517,6 +2710,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2530,6 +2724,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2543,6 +2738,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "CorreQueTePillo",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2556,6 +2752,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "CorreQueTePillo",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2569,6 +2766,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2582,6 +2780,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2595,6 +2794,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club Deportivo Raíces",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2608,6 +2808,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "HABI",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2621,6 +2822,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2634,6 +2836,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2647,6 +2850,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2660,6 +2864,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "A.D.Maraton Jerez",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2673,6 +2878,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2686,6 +2892,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2699,6 +2906,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club maratón Lucena",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2712,6 +2920,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2725,6 +2934,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Virgen de Belén",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2738,6 +2948,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2751,6 +2962,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2764,6 +2976,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2777,6 +2990,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2790,6 +3004,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2803,6 +3018,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2816,6 +3032,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2829,6 +3046,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2842,6 +3060,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2855,6 +3074,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2868,6 +3088,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de belén",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2881,6 +3102,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2894,6 +3116,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2907,6 +3130,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2920,6 +3144,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2933,6 +3158,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2946,6 +3172,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Omeyas Trail",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2959,6 +3186,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD. Boqueron running",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2972,6 +3200,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Aira fitnessclub",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "Aira fitnessclub",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2985,6 +3214,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -2998,6 +3228,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3011,6 +3242,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Las Liebres Carpeñas",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3024,6 +3256,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3037,6 +3270,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Al-Andalus",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3050,6 +3284,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3063,6 +3298,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3076,6 +3312,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Ninguno",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3089,6 +3326,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3102,6 +3340,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3115,6 +3354,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD. Las Liebres Carpeñas",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3128,6 +3368,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3141,6 +3382,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Team Rocket",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3154,6 +3396,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Team Rocket",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3167,6 +3410,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3180,6 +3424,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3193,6 +3438,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3206,6 +3452,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3219,6 +3466,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3232,6 +3480,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Al Andalus",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3245,6 +3494,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3258,6 +3508,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "KABRAS LOKAS TRAIL",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3271,6 +3522,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "KABRAS LOKAS TRAIL",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3284,6 +3536,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3297,6 +3550,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3310,6 +3564,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club Maratón Lucena",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3323,6 +3578,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3336,6 +3592,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3349,6 +3606,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3362,6 +3620,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3375,6 +3634,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3388,6 +3648,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3401,6 +3662,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3414,6 +3676,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3427,6 +3690,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3440,6 +3704,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Las Jedi del trote",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3453,6 +3718,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Las Jedi del trote",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3466,6 +3732,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indeoendiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3479,6 +3746,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "SP Group",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Mari Carmen y sus muñecos"
@@ -3492,6 +3760,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "SP Group",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Mari Carmen y sus muñecos"
@@ -3505,6 +3774,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "SP Group",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Mari Carmen y sus muñecos"
@@ -3518,6 +3788,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "SP Group",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Mari Carmen y sus muñecos"
@@ -3531,6 +3802,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Amigos del coche escoba",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los montañeros",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3544,6 +3816,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Amigos del coche escoba",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los montañeros",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3557,6 +3830,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3570,6 +3844,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "TROTASIERRA HORNACHUELOS",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3583,6 +3858,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3596,6 +3872,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3609,6 +3886,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3622,6 +3900,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "TROTASIERRA HORNACHUELOS",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3635,6 +3914,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3648,6 +3928,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3661,6 +3942,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3674,6 +3956,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "INDEPENDIENTE",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3687,6 +3970,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3700,6 +3984,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "L@S JOSE'S",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3713,6 +3998,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "L@S JOSE'S",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3726,6 +4012,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3739,6 +4026,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3752,6 +4040,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3765,6 +4054,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3778,6 +4068,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3791,6 +4082,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEA",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3804,6 +4096,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3817,6 +4110,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3830,6 +4124,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Cruz de Juárez",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3843,6 +4138,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3856,6 +4152,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ARTISTING",
     "Escoge el nombre que elegís como PAREJA": "Shewes",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3869,6 +4166,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ARTISTING",
     "Escoge el nombre que elegís como PAREJA": "Shewes",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3882,6 +4180,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "IBEROTURF S.L.",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "IBEROTURF"
@@ -3895,6 +4194,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "IBEROTURF S.L.",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "IBEROTURF"
@@ -3908,6 +4208,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "IBEROTURF S.L.",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "IBEROTURF"
@@ -3921,6 +4222,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "IBEROTURF S.L.",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "IBEROTURF"
@@ -3934,6 +4236,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CORDOBA PATRIMONIO CAC",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3947,6 +4250,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Chacales del parque",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3960,6 +4264,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CÓRDOBA PATRIMONIO CAC",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -3973,6 +4278,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS 4 SATÉLITES"
@@ -3986,6 +4292,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS 4 SATÉLITES"
@@ -3999,6 +4306,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS 4 SATÉLITES"
@@ -4012,6 +4320,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS 4 SATÉLITES"
@@ -4025,6 +4334,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4038,6 +4348,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4051,6 +4362,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4064,6 +4376,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4077,6 +4390,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4090,6 +4404,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4103,6 +4418,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4116,6 +4432,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4129,6 +4446,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4142,6 +4460,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4155,6 +4474,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4168,6 +4488,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4181,6 +4502,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4194,6 +4516,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4207,6 +4530,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Indea",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "IC",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4220,6 +4544,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4233,6 +4558,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Toldos la Sierra",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4246,6 +4572,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4259,6 +4586,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "CABRERA",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4272,6 +4600,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "CABRERA",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4285,6 +4614,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4298,6 +4628,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4311,6 +4642,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Montilla",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4324,6 +4656,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4337,6 +4670,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4350,6 +4684,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Cordobés",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4363,6 +4698,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4376,6 +4712,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS PELAGATOS"
@@ -4389,6 +4726,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS PELAGATOS"
@@ -4402,6 +4740,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "spg",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS PELAGATOS"
@@ -4415,6 +4754,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "spg",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "LOS PELAGATOS"
@@ -4428,6 +4768,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4441,6 +4782,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4454,6 +4796,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4467,6 +4810,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "FACTOR ENERGIA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4480,6 +4824,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4493,6 +4838,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "los califas",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "offimaxsur",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4506,6 +4852,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Lo califas uco",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4519,6 +4866,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4532,6 +4880,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4545,6 +4894,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4558,6 +4908,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4571,6 +4922,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Virgen de Belen",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4584,6 +4936,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4597,6 +4950,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4610,6 +4964,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD TRÉXIMO",
+    "Talla de camiseta": "3XL",
     "Nombre de la Empresa que representas:": "Vázquez Fisioterapia",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4623,6 +4978,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Belalcázar",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "GNC Assurance & Advisory",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4636,6 +4992,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Rxopla",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4649,6 +5006,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Rxopla",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4662,6 +5020,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4675,6 +5034,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Surco",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4688,6 +5048,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Surco",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4701,6 +5062,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4714,6 +5076,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4727,6 +5090,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "no",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Superate Sports",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Superate Sports"
@@ -4740,6 +5104,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "no",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Superate Sports",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Superate Sports"
@@ -4753,6 +5118,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "no",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "Superate Sports",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Superate Sports"
@@ -4766,6 +5132,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "no",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "Superate Sports",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "Superate Sports"
@@ -4779,6 +5146,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "TROTASIERRA",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4792,6 +5160,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "TROTASIERRA",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4805,6 +5174,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4818,6 +5188,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4831,6 +5202,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4844,6 +5216,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de belen",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4857,6 +5230,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de belen",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4870,6 +5244,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4883,6 +5258,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club runners pura cepa",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4896,6 +5272,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4909,6 +5286,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club maratón Lucena",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4922,6 +5300,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "ANDALUCÍA FOMENTA",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4935,6 +5314,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4948,6 +5328,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "no",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "SUPERLOPEZ",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4961,6 +5342,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Trotasierra",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "SUPERLOPEZ",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4974,6 +5356,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -4987,6 +5370,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5000,6 +5384,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5013,6 +5398,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trepachulos",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5026,6 +5412,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5039,6 +5426,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5052,6 +5440,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5065,6 +5454,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5078,6 +5468,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Garito running",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5091,6 +5482,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Garito running",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5104,6 +5496,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "La ultima y nos vamos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5117,6 +5510,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "La ultima y nos vamos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5130,6 +5524,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5143,6 +5538,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5156,6 +5552,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5169,6 +5566,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5182,6 +5580,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5195,6 +5594,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5208,6 +5608,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Califa - Uco",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5221,6 +5622,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Ángel&Sara",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5234,6 +5636,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Ángel&Sara",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5247,6 +5650,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CLUB ATLETISMO LOS CALIFAS-UCO",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5260,6 +5664,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "RUNNING ALCOLEA",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5273,6 +5678,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Los Califas-UCO",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5286,6 +5692,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5299,6 +5706,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club Atletismo Amo Alla",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5312,6 +5720,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Las Conchas",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5325,6 +5734,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Omeyas",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Las Conchas",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5338,6 +5748,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Lucía y Ali",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5351,6 +5762,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "Independiente",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Lucía y Ali",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5364,6 +5776,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5377,6 +5790,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5390,6 +5804,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5403,6 +5818,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Team PaTito",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5416,6 +5832,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Team PaTito",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5429,6 +5846,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo los califas/uco",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5442,6 +5860,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5455,6 +5874,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5468,6 +5888,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5481,6 +5902,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5494,6 +5916,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5507,6 +5930,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5520,6 +5944,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Trotasierra",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5533,6 +5958,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Independiente",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5546,6 +5972,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5559,6 +5986,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "SP group",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5572,6 +6000,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4570"
@@ -5585,6 +6014,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4570"
@@ -5598,6 +6028,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4570"
@@ -5611,6 +6042,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4570"
@@ -5624,6 +6056,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5637,6 +6070,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4560"
@@ -5650,6 +6084,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4560"
@@ -5663,6 +6098,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4560"
@@ -5676,6 +6112,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4560"
@@ -5689,6 +6126,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4580"
@@ -5702,6 +6140,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4580"
@@ -5715,6 +6154,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4580"
@@ -5728,6 +6168,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "RCI-4580"
@@ -5741,6 +6182,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5754,6 +6196,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierras",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5767,6 +6210,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Triatlón Mezquita",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5780,6 +6224,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "SPG",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5793,6 +6238,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "CLUB ATLETISMO RUTE",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "MORENITA DE RUTE",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5806,6 +6252,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "CLUB ATLETISMO RUTE",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "MORENITA DE RUTE",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5819,6 +6266,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "SP-GROUP",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5832,6 +6280,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "SP GROUP",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5845,6 +6294,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Spg",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5858,6 +6308,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5871,6 +6322,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5884,6 +6336,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5897,6 +6350,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5910,6 +6364,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5923,6 +6378,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Garito running",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Autoescuela lusan SC",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5936,6 +6392,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5949,6 +6406,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5962,6 +6420,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5975,6 +6434,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -5988,6 +6448,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Moviltech",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6001,6 +6462,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Moviltech",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6014,6 +6476,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.D. INDEA",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6027,6 +6490,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6040,6 +6504,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6053,6 +6518,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "ANDALUCÍA FOMENTA",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6066,6 +6532,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trops Cuevas de Nerja",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6079,6 +6546,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6092,6 +6560,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6105,6 +6574,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6118,6 +6588,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "COPYFAX",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "COPYFAX"
@@ -6131,6 +6602,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "COPYFAX",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "COPYFAX"
@@ -6144,6 +6616,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "COPYFAX",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "COPYFAX"
@@ -6157,6 +6630,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Equipos",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "COPYFAX",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": "COPYFAX"
@@ -6170,6 +6644,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6183,6 +6658,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6196,6 +6672,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6209,6 +6686,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6222,6 +6700,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CALIFAS-UCO",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6235,6 +6714,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "Universidad de Córdoba",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6248,6 +6728,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "CD media legua",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6261,6 +6742,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club surco Lucena",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6274,6 +6756,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club maratón Pozoblanco",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6287,6 +6770,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6300,6 +6784,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "2XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6313,6 +6798,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6326,6 +6812,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6339,6 +6826,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6352,6 +6840,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club atletismo Maracena",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6365,6 +6854,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "SPG",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6378,6 +6868,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6391,6 +6882,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "PROASA CÓRDOBA",
     "Escoge el nombre que elegís como PAREJA": "PROASA CÓRDOBA",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6404,6 +6896,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "TREFILADOS URBANO, S.L.",
     "Escoge el nombre que elegís como PAREJA": "PROASA CÓRDOBA",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6417,6 +6910,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Universidad de córdoba",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6430,6 +6924,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6443,6 +6938,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Aluas",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6456,6 +6952,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6469,6 +6966,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "INDEA",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6482,6 +6980,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Club de atletismo Al-Andalus",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6495,6 +6994,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Atletismo Cordobés",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6508,6 +7008,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "ARJONILLA RUNNING",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6521,6 +7022,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6534,6 +7036,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los Nietos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6547,6 +7050,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Los Nietos",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6560,6 +7064,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6573,6 +7078,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "no",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6586,6 +7092,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CALAMARES DEL TABLERO",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6599,6 +7106,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6612,6 +7120,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Bikerun",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6625,6 +7134,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Bikerun",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6638,6 +7148,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6651,6 +7162,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6664,6 +7176,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6677,6 +7190,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6690,6 +7204,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Independiente",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6703,6 +7218,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6716,6 +7232,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.D.INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6729,6 +7246,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6742,6 +7260,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6755,6 +7274,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6768,6 +7288,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Superate sports",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6781,6 +7302,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6794,6 +7316,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6807,6 +7330,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.D. INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6820,6 +7344,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "INDEA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6833,6 +7358,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6846,6 +7372,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Indea",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6859,6 +7386,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CLUB MARATON LUCENA",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6872,6 +7400,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CLUB MARATON LUCENA",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6885,6 +7414,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6898,6 +7428,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6911,6 +7442,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6924,6 +7456,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6937,6 +7470,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6950,6 +7484,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.A. MONTILLA",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6963,6 +7498,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "C.A. MONTILLA",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6976,6 +7512,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -6989,6 +7526,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "CD. SURCO LUCENA",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7002,6 +7540,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Anajuana",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7015,6 +7554,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Anajuana",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7028,6 +7568,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de Belen",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7041,6 +7582,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7054,6 +7596,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Trotasierra-Hornachuelos",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7067,6 +7610,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7080,6 +7624,7 @@
     "Carrera": "Familiar",
     "Tipo inscripción": "Inscripción familiar",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7093,6 +7638,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Centrorem",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7106,6 +7652,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Centrorem",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7119,6 +7666,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "No",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7132,6 +7680,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Peluquería Juan Carlos",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7145,6 +7694,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "Taberna La Montillana",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7158,6 +7708,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7171,6 +7722,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7184,6 +7736,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XS",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7197,6 +7750,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ARBONAIDA SL",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7210,6 +7764,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ARBONAIDA SL",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7223,6 +7778,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Triansias Vallbona Club",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7236,6 +7792,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "XL",
     "Nombre de la Empresa que representas:": "ARBONAIDA SL",
     "Escoge el nombre que elegís como PAREJA": "AMBITECO",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7249,6 +7806,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "ARBONAIDA SL",
     "Escoge el nombre que elegís como PAREJA": "AMBITECO",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7262,6 +7820,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "Virgen de Belén",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7275,6 +7834,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Pasión y recepción",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7288,6 +7848,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Parejas",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "Pasión y recepción",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7301,6 +7862,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "EPA Miguel Ríos",
+    "Talla de camiseta": "S",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7314,6 +7876,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7327,6 +7890,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "NO",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7340,6 +7904,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "Supérate sports",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7353,6 +7918,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7366,6 +7932,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7379,6 +7946,7 @@
     "Carrera": "Infantil",
     "Tipo inscripción": "Inscripción Infantil",
     "Club": "",
+    "Talla de camiseta": "",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7392,6 +7960,7 @@
     "Carrera": "Carrera 5K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "RCI",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7405,6 +7974,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "M",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
@@ -7418,6 +7988,7 @@
     "Carrera": "Carrera 10K",
     "Tipo inscripción": "Inscripción Individual",
     "Club": "",
+    "Talla de camiseta": "L",
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""

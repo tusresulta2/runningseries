@@ -10,87 +10,92 @@
     <meta property="og:title" content="Inscritos Carrera AJE Córdoba - La Carrera de las Empresas - 16 noviembre 2025" />
     <meta property="og:description" content="5K, 10K en individual, parejas o equipos de 4. Ven a correr el 16 de Noviembre a la Carrera AJE Córdoba en el Parque Miraflores con una espectacular llegada con la Mezquita-Catedral de fondo. 10K Prueba puntuable para el Circuito de Carreras Populares de Córdoba." />
 
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
     <link href="img/favicon.ico" rel="icon">
     <style>
         /* Estilos CSS BÁSICOS */
         body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-        background-color: #c9071d;
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #c9071d;
         }
 
         #search-container {
-        margin-bottom: 30px;
-        padding: 20px;
-        background-color: #ffffff;
-        border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         }
 
         #search-input {
-        width: 100%;
-        padding: 12px 20px;
-        margin: 8px 0;
-        box-sizing: border-box;
-        border: 2px solid #c9071d;
-        border-radius: 4px;
-        font-size: 16px;
-        transition: border-color 0.3s;
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+            border: 2px solid #c9071d;
+            border-radius: 4px;
+            font-size: 16px;
+            transition: border-color 0.3s;
         }
 
-        #search-input:focus {
-        border-color: #337ab7;
-        outline: none;
-        }
+            #search-input:focus {
+                border-color: #337ab7;
+                outline: none;
+            }
         /* ESTILO PARA EL CONTADOR */
         #record-count {
-        margin-top: 10px;
-        font-weight: bold;
-        color: #333;
-        font-size: 1.1em;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #333;
+            font-size: 1.1em;
         }
 
         #results-container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20px;
-        justify-content: flex-start;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: flex-start;
         }
 
         .card {
-        background-color: #ffffff;
-        border: 1px solid #ddd;
-        border-left: 5px solid #c9071d; /* Color de acento */
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        padding: 15px;
-        width: 320px; /* Ancho fijo para las tarjetas */
-        min-width: 300px;
-        box-sizing: border-box;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-left: 5px solid #c9071d; /* Color de acento */
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            width: 320px; /* Ancho fijo para las tarjetas */
+            min-width: 300px;
+            box-sizing: border-box;
         }
 
-        .card h3 {
-        margin-top: 0;
-        margin-bottom: 10px;
-        color: #333;
-        font-size: 1.2em;
-        }
+            .card h3 {
+                margin-top: 0;
+                margin-bottom: 10px;
+                color: #333;
+                font-size: 1.2em;
+            }
 
-        .card p {
-        margin: 5px 0;
-        color: #666;
-        line-height: 1.4;
-        }
+            .card p {
+                margin: 5px 0;
+                color: #666;
+                line-height: 1.4;
+            }
 
-        .card p strong {
-        color: #333;
-        font-weight: 600;
-        }
+                .card p strong {
+                    color: #333;
+                    font-weight: 600;
+                }
 
         .no-results {
-        color: #d9534f;
-        font-weight: bold;
-        padding: 15px;
+            color: #d9534f;
+            font-weight: bold;
+            padding: 15px;
         }
     </style>
 </head>
@@ -100,6 +105,8 @@
         <h1>🔍 Búsqueda de inscripciones SPG RunningSeries AJE Córdoba 2025</h1>
         <input type="text" id="search-input" placeholder="Buscar por Nombre, Apellidos, Dorsal, Carrera o Club...">
         <div id="record-count"></div>
+        <a href="2025/inscritos-alfabetico.pdf" target="_blank" class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block margin-inferior">Listado alfabético PDF<i class="fa fa-user-check ms-3"></i></a>
+        <a href="2025/inscritos-dorsal.pdf" target="_blank" class="btn btn-primary rounded-0 py-2 px-lg-4 d-none d-lg-block margin-inferior">Listado por dorsal PDF<i class="fa fa-user-check ms-3"></i></a>
     </div>
 
     <div id="results-container">
@@ -188,6 +195,8 @@
 
                 const modalidad = item["Tipo inscripción"].replace('Inscripción ','');
                 const clubName = item.Club && item.Club.trim() !== '' ? item.Club : '';
+                const talla = item["Talla de camiseta"].replace('Inscripción ','');
+
                 const year = new Date(item["Fecha Nacimiento"]);
                 const yearText = isNaN(year.getFullYear()) ? '' : year.getFullYear();
                 const sexo = item.Sexo === 'Hombre' ? 'M' : 'F';
@@ -199,6 +208,7 @@
                     <p><strong>Dorsal:</strong> <span style="font-weight: bold; color: #d9534f;">${item.Dorsal}</span></p>
                     <p><strong>Carrera:</strong> ${item.Carrera}</p>
                     <p><strong>Modalidad:</strong> ${modalidad}</p>
+                    <p><strong>Talla:</strong> ${talla}</p>
                     <p><strong>Año:</strong> ${yearText}</p>
                     <p><strong>Sexo:</strong> ${sexo}</p>
 
