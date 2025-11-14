@@ -7382,5 +7382,18 @@
     "Nombre de la Empresa que representas:": "",
     "Escoge el nombre que elegís como PAREJA": "",
     "Escoge el nombre que elegís como EQUIPO": ""
+  },
+  {
+    "Dorsal": 567,
+    "Nombre": "JOSE PEDRO",
+    "Apellidos": "SEMPERE GRACIA",
+    "Fecha Nacimiento": "1971-07-03T00:00:00.000Z",
+    "Sexo": "Hombre",
+    "Carrera": "Carrera 5K",
+    "Tipo inscripción": "Inscripción Individual",
+    "Club": "",
+    "Nombre de la Empresa que representas:": "RCI",
+    "Escoge el nombre que elegís como PAREJA": "",
+    "Escoge el nombre que elegís como EQUIPO": ""
   }
 ]
